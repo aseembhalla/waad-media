@@ -1,0 +1,15 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Connected · WAAD Publisher</title><meta name="robots" content="noindex"><link rel="stylesheet" href="_style.css"></head><body><main>
+<h1>Almost done</h1><div class="card" id="box"></div>
+<script>
+const q=new URLSearchParams(location.search), code=q.get('code'), err=q.get('error'), state=q.get('state')||'';
+const platform=state.split('-')[0];
+const box=document.getElementById('box');
+if(err){box.innerHTML='<p>Sign-in was cancelled or failed: <code>'+err+'</code></p>';}
+else if(!code){box.innerHTML='<p>No authorization code in this link.</p>';}
+else{
+  box.innerHTML='<p><strong>'+(platform||'Platform')+'</strong> sign-in succeeded. Copy this one-time code (it expires in a few minutes):</p>'+
+  '<input id="c" readonly value="'+code.replace(/"/g,'')+'"><button onclick="navigator.clipboard.writeText(document.getElementById(\'c\').value);this.textContent=\'Copied\'">Copy code</button>'+
+  '<p class="muted">Then open GitHub → aseembhalla/waad → Actions → <em>Connect platform</em> → Run workflow, choose <strong>'+platform+'</strong> and paste the code.</p>';
+}
+</script></main></body></html>

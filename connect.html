@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Connect · WAAD Publisher</title><meta name="robots" content="noindex"><link rel="stylesheet" href="_style.css"></head><body><main>
+<h1>Connect a WAAD account</h1><p class="muted">Internal tool. Opens the platform's official sign-in page.</p>
+<div class="card">
+<label>Platform<select id="p"><option value="pinterest">Pinterest</option><option value="youtube">YouTube</option></select></label>
+<label>App ID / OAuth client ID (not the secret)<input id="cid" autocomplete="off"></label>
+<button onclick="go()">Continue to sign-in</button></div>
+<script>
+const REDIRECT = location.origin + location.pathname.replace(/connect\.html$/, 'callback.html');
+function go(){
+  const p = document.getElementById('p').value, cid = document.getElementById('cid').value.trim();
+  if(!cid){alert('Enter the app/client ID');return;}
+  const state = p + '-' + Math.random().toString(36).slice(2);
+  let url;
+  if(p==='pinterest'){
+    url='https://www.pinterest.com/oauth/?'+new URLSearchParams({client_id:cid,redirect_uri:REDIRECT,response_type:'code',scope:'boards:read,boards:write,pins:read,pins:write,user_accounts:read',state});
+  } else {
+    url='https://accounts.google.com/o/oauth2/v2/auth?'+new URLSearchParams({client_id:cid,redirect_uri:REDIRECT,response_type:'code',scope:'https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly',access_type:'offline',prompt:'consent',include_granted_scopes:'true',state});
+  }
+  location.href=url;
+}
+</script></main></body></html>
