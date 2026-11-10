@@ -1938,5 +1938,41 @@
    "media/longest-lived-animals/slide_06.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "biggest-stadiums",
+  "at": "2026-11-11T06:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T06:30:00Z",
+   "fb_reel": "2026-11-13T06:30:00Z",
+   "yt_short": "2026-11-13T06:30:00Z",
+   "threads_reel": "2026-11-13T06:30:00Z",
+   "bsky_reel": "2026-11-13T06:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "The {lit:20} Biggest Stadiums in the World by Capacity",
+  "caption": "The biggest stadium on Earth is a cricket ground: Narendra Modi Stadium in Ahmedabad holds 132,000.\n\nNext is North Korea's Rungrado 1st of May Stadium (113,281), then a run of US college football giants led by Michigan Stadium (107,601).\nThe US has 129 stadiums of 40,000+ seats, more than China, Brazil and India combined.\nPermanent capacity, not record attendance.\n\nWhat's the biggest stadium you've been to?\n\nSource: Wikipedia, compiled from official venue figures (List of stadiums by capacity (40,000+, permanent capacity)).\n\nFollow @worldasadataset for the world, quantified.\n\n#stadium #cricket #football #collegefootball #sports #didyouknow #dataviz #worldasadataset",
+  "slides": [
+   "media/biggest-stadiums/slide_01.jpg",
+   "media/biggest-stadiums/slide_02.jpg",
+   "media/biggest-stadiums/slide_03.jpg",
+   "media/biggest-stadiums/slide_04.jpg",
+   "media/biggest-stadiums/slide_05.jpg"
+  ],
+  "reel": null
  }
 ]
