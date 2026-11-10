@@ -1037,6 +1037,39 @@
   "reel": "media/world-cup-winners/reel.mp4"
  },
  {
+  "slug": "midterm-what-voters-said",
+  "at": "2026-11-10T12:00:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-10T12:00:00Z",
+   "fb_reel": "2026-11-10T12:00:00Z",
+   "yt_short": "2026-11-10T12:00:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "2026 Midterms Exit Polls: What Voters Cared About",
+  "caption": "2026 Midterms: 91% of voters said corruption was a crucial or major factor in their vote.\n\nThat's slightly more than said the same about the cost of living (89%).\n63% disapproved of how Trump is handling his job, 54% strongly. 66% said his policies made the economy worse.\nExit poll estimates (AP Voter Poll by SSRS), as reported on 4 November.\n\nCorruption or cost of living: which mattered more to you? One word.\n\nSource: Yahoo News (Andrew Romano) (Democrats' 2026 midterm rout was big — really big. Here are the numbers that prove it); The Associated Press (AP Voter Poll, conducted by SSRS) (What motivated voters in the 2026 midterm elections, according to The AP Voter Poll).\n\nFollow @worldasadataset for the world, quantified.\n\n#midterms #midterms2026 #exitpolls #uspolitics #election2026 #voters #data #worldasadataset",
+  "slides": [
+   "media/midterm-what-voters-said/slide_01.jpg",
+   "media/midterm-what-voters-said/slide_02.jpg",
+   "media/midterm-what-voters-said/slide_03.jpg",
+   "media/midterm-what-voters-said/slide_04.jpg",
+   "media/midterm-what-voters-said/slide_05.jpg",
+   "media/midterm-what-voters-said/slide_06.jpg"
+  ],
+  "reel": "media/midterm-what-voters-said/reel.mp4"
+ },
+ {
   "slug": "pacific-ocean-size",
   "at": "2026-11-10T12:30:00Z",
   "targets": [
