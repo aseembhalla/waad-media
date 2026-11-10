@@ -2085,5 +2085,42 @@
    "media/mammals-by-weight/slide_06.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "grand-slam-titles",
+  "at": "2026-11-11T10:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T10:30:00Z",
+   "fb_reel": "2026-11-13T10:30:00Z",
+   "yt_short": "2026-11-13T10:30:00Z",
+   "threads_reel": "2026-11-13T10:30:00Z",
+   "bsky_reel": "2026-11-13T10:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "Most Grand Slam Singles Titles of All Time: Men and Women",
+  "caption": "24 Grand Slam singles titles: the record is shared by Novak Djokovic and Margaret Court.\n\nMen: Djokovic 24, Nadal 22, Federer 20, Sampras 14. Women: Court 24, Serena Williams 23, Steffi Graf 22.\nFrom Wimbledon 2003 to the 2026 US Open, the Big Three won 66 of 93 men's majors.\nThrough the 2026 US Open.\n\nWho's the greatest of all time, and is it the one with the most titles?\n\nSource: Wikipedia, Grand Slam singles champion lists (List of Grand Slam men's and women's singles champions).\n\nFollow @worldasadataset for the world, quantified.\n\n#tennis #grandslam #djokovic #serenawilliams #atp #wta #sportsstats #worldasadataset",
+  "slides": [
+   "media/grand-slam-titles/slide_01.jpg",
+   "media/grand-slam-titles/slide_02.jpg",
+   "media/grand-slam-titles/slide_03.jpg",
+   "media/grand-slam-titles/slide_04.jpg",
+   "media/grand-slam-titles/slide_05.jpg",
+   "media/grand-slam-titles/slide_06.jpg"
+  ],
+  "reel": null
  }
 ]
