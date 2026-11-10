@@ -2011,5 +2011,42 @@
    "media/lightning-hotspots/slide_06.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "rare-earths",
+  "at": "2026-11-11T08:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T08:30:00Z",
+   "fb_reel": "2026-11-13T08:30:00Z",
+   "yt_short": "2026-11-13T08:30:00Z",
+   "threads_reel": "2026-11-13T08:30:00Z",
+   "bsky_reel": "2026-11-13T08:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "Rare Earths: Who Mines Them and Who Has the Reserves ({lit:2025})",
+  "caption": "China mined 69% of the world's rare earths in 2025.\n\nChina: 270,000 tonnes of rare-earth oxide out of about 390,000. Next: the US (51,000), Australia (29,000) and Myanmar (22,000).\nReserves tell a different story: Brazil has the second-largest (11.0 million tonnes) but mined just 0.5% of supply.\nSource: USGS Mineral Commodity Summaries 2026; 2025 production is estimated.\n\nShould countries mine their own rare earths, even if it's dirtier and dearer?\n\nSource: U.S. Geological Survey (Mineral Commodity Summaries 2026: Rare earths).\n\nFollow @worldasadataset for the world, quantified.\n\n#rareearths #mining #geopolitics #criticalminerals #china #ev #dataviz #worldasadataset",
+  "slides": [
+   "media/rare-earths/slide_01.jpg",
+   "media/rare-earths/slide_02.jpg",
+   "media/rare-earths/slide_03.jpg",
+   "media/rare-earths/slide_04.jpg",
+   "media/rare-earths/slide_05.jpg",
+   "media/rare-earths/slide_06.jpg"
+  ],
+  "reel": null
  }
 ]
