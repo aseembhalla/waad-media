@@ -1103,6 +1103,39 @@
   "reel": "media/pacific-ocean-size/reel.mp4"
  },
  {
+  "slug": "midterm-priciest-senate-races",
+  "at": "2026-11-10T13:00:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-10T13:00:00Z",
+   "fb_reel": "2026-11-10T13:00:00Z",
+   "yt_short": "2026-11-10T13:00:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "2026 Midterms: The Most Expensive Senate Races Ever",
+  "caption": "2026 Midterms: $573 million in ads for one Senate race. Texas just set the record.\n\nThat's the most ever spent on ads in any US race except for president (AdImpact).\nOnly 3 non-presidential races have topped $500 million: Ohio 2024, Ohio 2026 and Texas 2026.\nTexas spent about 2.8× what its 2024 Senate race drew. Figures include reservations.\n\nIs half a billion dollars for one Senate seat too much? Yes or no?\n\nSource: AdImpact via Gulf News (Texas Senate race becomes costliest in US history at $573 million); AdImpact via ANI (Devdiscourse) (US midterms 2026: Texas Senate race sets record as costliest non-presidential contest); AdImpact via Gray DC / Alaska's News Source (2026 midterms set new record for political ad spending); AdImpact (Cycle in Review 2023-2024).\n\nFollow @worldasadataset for the world, quantified.\n\n#midterms #midterms2026 #senate #uspolitics #election2026 #texas #ohio #money",
+  "slides": [
+   "media/midterm-priciest-senate-races/slide_01.jpg",
+   "media/midterm-priciest-senate-races/slide_02.jpg",
+   "media/midterm-priciest-senate-races/slide_03.jpg",
+   "media/midterm-priciest-senate-races/slide_04.jpg",
+   "media/midterm-priciest-senate-races/slide_05.jpg",
+   "media/midterm-priciest-senate-races/slide_06.jpg"
+  ],
+  "reel": "media/midterm-priciest-senate-races/reel.mp4"
+ },
+ {
   "slug": "most-spoken-languages",
   "at": "2026-11-10T13:30:00Z",
   "targets": [
