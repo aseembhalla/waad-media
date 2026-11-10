@@ -15,7 +15,7 @@ function go(){
   if(p==='pinterest'){
     url='https://www.pinterest.com/oauth/?'+new URLSearchParams({client_id:cid,redirect_uri:REDIRECT,response_type:'code',scope:'boards:read,boards:write,pins:read,pins:write,user_accounts:read',state});
   } else if(p==='threads'){
-    url='https://threads.net/oauth/authorize?'+new URLSearchParams({client_id:cid,redirect_uri:REDIRECT,response_type:'code',scope:'threads_basic,threads_content_publish',state});
+    url='https://threads.net/oauth/authorize?'+new URLSearchParams({client_id:cid,redirect_uri:REDIRECT,response_type:'code',scope:'threads_basic,threads_content_publish,threads_manage_replies,threads_read_replies,threads_keyword_search,threads_manage_mentions,threads_manage_insights',state});
   } else {
     url='https://accounts.google.com/o/oauth2/v2/auth?'+new URLSearchParams({client_id:cid,redirect_uri:REDIRECT,response_type:'code',scope:'https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.force-ssl https://www.googleapis.com/auth/yt-analytics.readonly https://www.googleapis.com/auth/yt-analytics-monetary.readonly',access_type:'offline',prompt:'consent',include_granted_scopes:'true',state});
   }
