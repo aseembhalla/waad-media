@@ -1974,5 +1974,42 @@
    "media/biggest-stadiums/slide_05.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "lightning-hotspots",
+  "at": "2026-11-11T07:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T07:30:00Z",
+   "fb_reel": "2026-11-13T07:30:00Z",
+   "yt_short": "2026-11-13T07:30:00Z",
+   "threads_reel": "2026-11-13T07:30:00Z",
+   "bsky_reel": "2026-11-13T07:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "Where Lightning Strikes Most on Earth: The Top {lit:10} Hotspots",
+  "caption": "Lake Maracaibo in Venezuela gets thunderstorms about 297 days a year: the lightning capital of the world.\n\nA NASA satellite counted about 233 flashes per km² per year there (1998–2013). Second: Kabare, DR Congo, with 205.\nFive of the top 10 hotspots are in DR Congo, and Central Africa holds 283 of the top 500.\nData: TRMM Lightning Imaging Sensor, Albrecht et al. (2016).\n\nEver seen a lightning storm that lasted all night?\n\nSource: Albrecht et al., Bulletin of the American Meteorological Society (Where are the lightning hotspots on Earth? (2016)); EARTH Magazine (American Geosciences Institute) (Venezuela, Central Africa are Earth's lightning hot spots).\n\nFollow @worldasadataset for the world, quantified.\n\n#lightning #storm #weather #venezuela #nasa #science #didyouknow #worldasadataset",
+  "slides": [
+   "media/lightning-hotspots/slide_01.jpg",
+   "media/lightning-hotspots/slide_02.jpg",
+   "media/lightning-hotspots/slide_03.jpg",
+   "media/lightning-hotspots/slide_04.jpg",
+   "media/lightning-hotspots/slide_05.jpg",
+   "media/lightning-hotspots/slide_06.jpg"
+  ],
+  "reel": null
  }
 ]
