@@ -60,13 +60,13 @@
    "ig_reel",
    "fb_reel",
    "pin",
-   "yt_short",
-   "x_post"
+   "x_post",
+   "yt_short"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T18:30:00Z",
    "fb_reel": "2026-11-10T18:30:00Z",
-   "yt_short": "2026-11-10T18:30:00Z"
+   "yt_short": "2026-11-10T22:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -93,13 +93,13 @@
    "ig_reel",
    "fb_reel",
    "pin",
-   "yt_short",
-   "x_post"
+   "x_post",
+   "yt_short"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T19:30:00Z",
    "fb_reel": "2026-11-10T19:30:00Z",
-   "yt_short": "2026-11-10T19:30:00Z"
+   "yt_short": "2026-11-10T22:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -125,13 +125,11 @@
    "ig_reel",
    "fb_reel",
    "pin",
-   "yt_short",
    "x_post"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T20:30:00Z",
-   "fb_reel": "2026-11-10T20:30:00Z",
-   "yt_short": "2026-11-10T20:30:00Z"
+   "fb_reel": "2026-11-10T20:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -158,13 +156,13 @@
    "ig_reel",
    "fb_reel",
    "pin",
-   "yt_short",
-   "x_post"
+   "x_post",
+   "yt_short"
   ],
   "target_at": {
    "ig_reel": "2026-11-08T20:43:09Z",
    "fb_reel": "2026-11-08T20:43:09Z",
-   "yt_short": "2026-11-08T20:43:09Z"
+   "yt_short": "2026-11-10T07:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -194,13 +192,13 @@
    "ig_reel",
    "fb_reel",
    "pin",
-   "yt_short",
-   "x_post"
+   "x_post",
+   "yt_short"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T21:30:00Z",
    "fb_reel": "2026-11-10T21:30:00Z",
-   "yt_short": "2026-11-10T21:30:00Z"
+   "yt_short": "2026-11-10T22:20:00Z"
   },
   "done": [
    "fb_carousel",
@@ -238,7 +236,8 @@
    "fb_carousel",
    "fb_reel",
    "ig_carousel",
-   "ig_reel"
+   "ig_reel",
+   "yt_short"
   ],
   "status": "queued",
   "title": "2026 Midterms: Record Political Ad Spending",
@@ -261,13 +260,13 @@
    "ig_reel",
    "fb_reel",
    "pin",
-   "yt_short",
-   "x_post"
+   "x_post",
+   "yt_short"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T22:30:00Z",
    "fb_reel": "2026-11-10T22:30:00Z",
-   "yt_short": "2026-11-10T22:30:00Z"
+   "yt_short": "2026-11-10T22:10:00Z"
   },
   "done": [
    "fb_carousel",
@@ -602,7 +601,10 @@
    "fb_reel": "2026-11-12T00:30:00Z",
    "yt_short": "2026-11-12T00:30:00Z"
   },
-  "done": [],
+  "done": [
+   "fb_carousel",
+   "ig_carousel"
+  ],
   "status": "queued",
   "title": "Top 10 Countries by Proven Oil Reserves (OPEC, end of 2025)",
   "caption": "Just three countries hold 49.6% of the world's proven crude oil reserves.\n\nVenezuela: 303.7 billion barrels. Saudi Arabia: 267.2. Iran: 208.6.\nWorld total: about 1,573 billion barrels at the end of 2025. OPEC members hold about 79%.\nOPEC counts conventional crude only, so Canada's oil sands are not included.\n\nDid Venezuela at number one surprise you?\n\nSource: OPEC (Annual Statistical Bulletin 2026).\n\nFollow @worldasadataset for the world, quantified.\n\n#oil #oilreserves #energy #opec #crudeoil #worldrankings #data #worldasadataset",
@@ -632,7 +634,10 @@
    "fb_reel": "2026-11-12T01:30:00Z",
    "yt_short": "2026-11-12T01:30:00Z"
   },
-  "done": [],
+  "done": [
+   "fb_carousel",
+   "ig_carousel"
+  ],
   "status": "queued",
   "title": "Most Countries Have Fewer People Than Delhi (UN data)",
   "caption": "187 of the world's 237 countries and territories have fewer people than Delhi.\n\nThe UN puts Delhi's city area at 30.22 million people. Australia: 26.97 million. The Netherlands: 18.35 million.\nOnly 50 countries and territories have more people than this one city.\nCity = the UN's new Degree of Urbanisation definition (contiguous dense area); country figures are projected for mid-year.\n\nWhich comparison surprised you most?\n\nSource: UN DESA Population Division (The World's Cities in 2025: Data Booklet (World Urbanization Prospects 2025), Annex Table 2); UN DESA Population Division (World Population Prospects 2024).\n\nFollow @worldasadataset for the world, quantified.\n\n#delhi #india #population #cities #urbanization #megacity #geography #worldasadataset",
@@ -662,7 +667,10 @@
    "fb_reel": "2026-11-12T02:30:00Z",
    "yt_short": "2026-11-12T02:30:00Z"
   },
-  "done": [],
+  "done": [
+   "fb_carousel",
+   "ig_carousel"
+  ],
   "status": "queued",
   "title": "World's Strongest Passports (Henley Passport Index, Oct 2026)",
   "caption": "A Singapore passport opens 193 destinations without a prior visa, the most of any passport.\n\nNext: Japan, South Korea and the UAE (188), Sweden (187). UK: 184. US: 180.\nHenley Passport Index, October 2026 edition, based on IATA data.\n\nHow many destinations does your passport open?\n\nSource: Henley & Partners (Henley Passport Index, October 2026 update (based on IATA data)).\n\nFollow @worldasadataset for the world, quantified.\n\n#passport #passportindex #travel #visafree #singapore #worldrankings #data #worldasadataset",
@@ -692,7 +700,10 @@
    "fb_reel": "2026-11-12T03:30:00Z",
    "yt_short": "2026-11-12T03:30:00Z"
   },
-  "done": [],
+  "done": [
+   "fb_carousel",
+   "ig_carousel"
+  ],
   "status": "queued",
   "title": "Countries With the Most Land Neighbours (China and Russia Tie)",
   "caption": "China and Russia each share a land border with 14 countries, the most of any nation.\n\nBrazil is third with 10, then Germany and DR Congo with 9 each.\nChina and Russia also border each other.\nFrance's count rises if you include French Guiana's borders in South America.\n\nHow many neighbours does your country have?\n\nSource: CIA World Factbook (Land boundaries (archived edition)); Guinness World Records (Most land boundaries).\n\nFollow @worldasadataset for the world, quantified.\n\n#geography #borders #maps #china #russia #didyouknow #worldrankings #worldasadataset",
@@ -722,7 +733,10 @@
    "fb_reel": "2026-11-12T04:30:00Z",
    "yt_short": "2026-11-12T04:30:00Z"
   },
-  "done": [],
+  "done": [
+   "fb_carousel",
+   "ig_carousel"
+  ],
   "status": "queued",
   "title": "How Much Water It Takes to Make Beef, Coffee, Chocolate and a T-Shirt",
   "caption": "One kilo of beef takes an estimated 15,415 litres of water to produce.\n\nChocolate needs even more: about 17,196 litres per kilo. Roasted coffee: 18,925.\nOne cup of coffee: about 132 litres. A cotton T-shirt: about 2,496.\nThese are estimated global averages; most of it is rainwater used to grow crops and feed.\n\nWhich one surprised you most?\n\nSource: Water Footprint Network / UNESCO-IHE (Mekonnen & Hoekstra, Report No. 47 (crops), Table 4); Water Footprint Network / UNESCO-IHE (Mekonnen & Hoekstra, Report No. 48 (animal products)); Water Footprint Network (Product gallery: coffee; Hoekstra (2010) shirt weight).\n\nFollow @worldasadataset for the world, quantified.\n\n#waterfootprint #water #sustainability #food #climate #environment #coffee #worldasadataset",
@@ -753,7 +767,10 @@
    "fb_reel": "2026-11-12T05:30:00Z",
    "yt_short": "2026-11-12T05:30:00Z"
   },
-  "done": [],
+  "done": [
+   "fb_carousel",
+   "ig_carousel"
+  ],
   "status": "queued",
   "title": "Life Expectancy Gap: Top 5 vs Bottom 5 Countries (UN estimates)",
   "caption": "Life expectancy at birth in Monaco is an estimated 31.9 years higher than in Nigeria.\n\nLongest: Monaco 86.4, San Marino 85.7, Japan 84.7, South Korea 84.3, Andorra 84.0.\nShortest: Nigeria 54.5, Chad 55.1, Lesotho 57.4, Central African Republic 57.4, South Sudan 57.6.\nLife expectancy at birth, UN estimates for 2023.\n\nWhat do you think explains most of the gap?\n\nSource: UN DESA Population Division (World Population Prospects 2024).\n\nFollow @worldasadataset for the world, quantified.\n\n#lifeexpectancy #globalhealth #demographics #publichealth #worldrankings #africa #data #worldasadataset",
@@ -783,7 +800,10 @@
    "fb_reel": "2026-11-12T06:30:00Z",
    "yt_short": "2026-11-12T06:30:00Z"
   },
-  "done": [],
+  "done": [
+   "fb_carousel",
+   "ig_carousel"
+  ],
   "status": "queued",
   "title": "Most and Least Densely Populated Countries (World Bank data)",
   "caption": "Singapore is about 2,355 times more crowded than Australia.\n\nMacao (20,631), Monaco (18,537) and Singapore (8,329) top the list, in people per km² of land.\nAt the other end: Mongolia (2.3), Australia (3.5) and Greenland (0.14).\n\nWould you rather live somewhere crowded or empty?\n\nSource: World Bank (World Development Indicators, Population density (EN.POP.DNST)).\n\nFollow @worldasadataset for the world, quantified.\n\n#populationdensity #population #monaco #mongolia #geography #worldbank #maps #worldasadataset",
@@ -806,7 +826,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T07:30:00Z",
@@ -836,7 +858,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T08:30:00Z",
@@ -867,7 +891,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T09:30:00Z",
@@ -898,7 +924,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T10:30:00Z",
@@ -929,7 +957,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T11:30:00Z",
@@ -960,7 +990,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T12:30:00Z",
@@ -991,7 +1023,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T13:30:00Z",
@@ -1023,7 +1057,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T14:30:00Z",
@@ -1055,7 +1091,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T15:30:00Z",
@@ -1086,7 +1124,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T16:30:00Z",
@@ -1117,7 +1157,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T17:30:00Z",
@@ -1148,7 +1190,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T18:30:00Z",
@@ -1179,7 +1223,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T19:30:00Z",
@@ -1210,7 +1256,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T20:30:00Z",
@@ -1241,7 +1289,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T21:30:00Z",
@@ -1272,7 +1322,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T22:30:00Z",
@@ -1303,7 +1355,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T23:30:00Z",
@@ -1334,7 +1388,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-13T00:30:00Z",
@@ -1364,7 +1420,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-13T01:30:00Z",
@@ -1395,7 +1453,9 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads",
+   "bsky"
   ],
   "target_at": {
    "ig_reel": "2026-11-13T02:30:00Z",
