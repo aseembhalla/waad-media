@@ -2048,5 +2048,42 @@
    "media/rare-earths/slide_06.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "mammals-by-weight",
+  "at": "2026-11-11T09:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T09:30:00Z",
+   "fb_reel": "2026-11-13T09:30:00Z",
+   "yt_short": "2026-11-13T09:30:00Z",
+   "threads_reel": "2026-11-13T09:30:00Z",
+   "bsky_reel": "2026-11-13T09:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "All Mammals on Earth by Weight: Wild Animals Are Only {lit:6}%",
+  "caption": "Only 5.6% of the weight of all mammals on Earth is wild animals.\n\nLivestock weigh about 630 million tonnes and humans about 390 million. All wild land and sea mammals together: about 60 million.\nFarmed pigs alone outweigh every wild land mammal combined, and pet dogs weigh about as much.\nEstimates from Greenspoon et al., PNAS (2023), wet biomass.\n\nWhich wild animal did you think would weigh the most in total?\n\nSource: Greenspoon et al., PNAS (The global biomass of wild mammals (2023)).\n\nFollow @worldasadataset for the world, quantified.\n\n#wildlife #animals #biodiversity #nature #science #didyouknow #dataviz #worldasadataset",
+  "slides": [
+   "media/mammals-by-weight/slide_01.jpg",
+   "media/mammals-by-weight/slide_02.jpg",
+   "media/mammals-by-weight/slide_03.jpg",
+   "media/mammals-by-weight/slide_04.jpg",
+   "media/mammals-by-weight/slide_05.jpg",
+   "media/mammals-by-weight/slide_06.jpg"
+  ],
+  "reel": null
  }
 ]
