@@ -2194,5 +2194,43 @@
    "media/internet-languages/slide_05.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "meat-eaters",
+  "at": "2026-11-11T13:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T13:30:00Z",
+   "fb_reel": "2026-11-13T13:30:00Z",
+   "yt_short": "2026-11-13T13:30:00Z",
+   "threads_reel": "2026-11-13T13:30:00Z",
+   "bsky_reel": "2026-11-13T13:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "Meat Supply per Person by Country (FAO 2023 Map)",
+  "caption": "The United States has 15 times as much meat per person as India.\n\nMeat supply per person, 2023: United States 122 kg, China 74 kg, India 8.1 kg.\nTonga (157 kg) and Mongolia (136 kg) top the list; DR Congo is lowest at 3.5 kg.\nSupply is what is available to eat, including food wasted at home, so actual intake is lower.\n\nWhere does your country land: high or low?\n\nSource: Our World in Data, based on FAO (Meat supply per person (FAOSTAT Food Balances)).\n\nFollow @worldasadataset for the world, quantified.\n\n#meat #food #diet #agriculture #worldmap #didyouknow #data #worldasadataset",
+  "slides": [
+   "media/meat-eaters/slide_01.jpg",
+   "media/meat-eaters/slide_02.jpg",
+   "media/meat-eaters/slide_03.jpg",
+   "media/meat-eaters/slide_04.jpg",
+   "media/meat-eaters/slide_05.jpg",
+   "media/meat-eaters/slide_06.jpg",
+   "media/meat-eaters/slide_07.jpg"
+  ],
+  "reel": null
  }
 ]
