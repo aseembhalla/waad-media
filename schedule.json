@@ -1901,5 +1901,42 @@
    "media/big-mac-prices-2026/slide_06.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "longest-lived-animals",
+  "at": "2026-11-11T05:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T05:30:00Z",
+   "fb_reel": "2026-11-13T05:30:00Z",
+   "yt_short": "2026-11-13T05:30:00Z",
+   "threads_reel": "2026-11-13T05:30:00Z",
+   "bsky_reel": "2026-11-13T05:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "The Longest-Living Animals on Earth, Ranked",
+  "caption": "A Greenland shark can live an estimated 392 years, and doesn't mature until about 156.\n\nThe record holder is an ocean quahog clam, about 507 years old, aged by its shell bands.\nAmong mammals, the bowhead whale tops the list at 211 years. The oldest human on record reached 122.\nData: AnAge (Human Ageing Genomic Resources). Wild ages are scientific estimates.\n\nWhich animal on this list surprised you most?\n\nSource: Human Ageing Genomic Resources, AnAge database (AnAge: The Animal Ageing and Longevity Database (build 15)).\n\nFollow @worldasadataset for the world, quantified.\n\n#animals #greenlandshark #ocean #marinelife #science #didyouknow #nature #worldasadataset",
+  "slides": [
+   "media/longest-lived-animals/slide_01.jpg",
+   "media/longest-lived-animals/slide_02.jpg",
+   "media/longest-lived-animals/slide_03.jpg",
+   "media/longest-lived-animals/slide_04.jpg",
+   "media/longest-lived-animals/slide_05.jpg",
+   "media/longest-lived-animals/slide_06.jpg"
+  ],
+  "reel": null
  }
 ]
