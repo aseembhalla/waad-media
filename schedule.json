@@ -168,7 +168,8 @@
    "fb_carousel",
    "fb_reel",
    "ig_carousel",
-   "ig_reel"
+   "ig_reel",
+   "yt_short"
   ],
   "status": "queued",
   "title": "Midterm Seat Losses by the President's Party Since 1946",
@@ -305,7 +306,8 @@
    "fb_carousel",
    "fb_reel",
    "ig_carousel",
-   "ig_reel"
+   "ig_reel",
+   "yt_short"
   ],
   "status": "queued",
   "title": "US Midterm Voter Turnout by Year, 1910-2026",
@@ -594,16 +596,22 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "bsky",
+   "threads"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T00:30:00Z",
    "fb_reel": "2026-11-12T00:30:00Z",
-   "yt_short": "2026-11-12T00:30:00Z"
+   "yt_short": "2026-11-12T00:30:00Z",
+   "bsky": "2026-11-10T07:30:00Z",
+   "threads": "2026-11-10T08:10:00Z"
   },
   "done": [
+   "bsky",
    "fb_carousel",
-   "ig_carousel"
+   "ig_carousel",
+   "threads"
   ],
   "status": "queued",
   "title": "Top 10 Countries by Proven Oil Reserves (OPEC, end of 2025)",
@@ -835,7 +843,12 @@
    "fb_reel": "2026-11-12T07:30:00Z",
    "yt_short": "2026-11-12T07:30:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "Oldest vs Youngest Countries by Median Age (UN projections)",
   "caption": "In Monaco, half the population is older than 53.1. In the Central African Republic, half is younger than 14.6.\n\nThat is a gap of 38.5 years in median age, based on UN projections.\nJapan (50.2) and Italy (48.6) are among the oldest; Somalia, Niger and Chad are among the youngest.\nThe world median: 31.1 years. India: 29.2.\n\nIs your country older or younger than the world median?\n\nSource: UN DESA Population Division (World Population Prospects 2024 (median age, medium variant)).\n\nFollow @worldasadataset for the world, quantified.\n\n#demographics #population #medianage #ageing #japan #africa #worldrankings #worldasadataset",
@@ -867,7 +880,12 @@
    "fb_reel": "2026-11-12T08:30:00Z",
    "yt_short": "2026-11-12T08:30:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "How Many Earths Fit Inside the Sun? (NASA Data)",
   "caption": "About 1.3 million Earths would fit inside the Sun.\n\nBy volume, NASA puts the Sun at 1,304,000 Earths.\nAcross its width, the Sun is about 109 Earths wide.\nIt holds 99.9% of the mass of the Sun and planets combined.\nReal spheres leave gaps, so fewer solid Earths would pack in.\n\nWhich planet would you visit first?\n\nSource: NASA NSSDCA (Sun Fact Sheet); NASA NSSDCA (Earth Fact Sheet); NASA NSSDCA (Planetary Fact Sheet (metric)); NASA NSSDCA (Jupiter Fact Sheet); Definitions and arithmetic (Unit conversions, calendar lengths and model assumptions).\n\nFollow @worldasadataset for the world, quantified.\n\n#space #sun #astronomy #solarsystem #nasa #science #scale #worldasadataset",
@@ -900,7 +918,12 @@
    "fb_reel": "2026-11-12T09:30:00Z",
    "yt_short": "2026-11-12T09:30:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "Which Countries Drive on the Left? Map and Share of World Population",
   "caption": "36% of the world's people live in countries that drive on the left.\n\nOnly 54 of 193 UN member states keep left, but they include India, Indonesia, Pakistan, Bangladesh and Japan.\nIndia alone has 1,464 million people, about half of everyone in a left-driving country.\nDriving side: WorldStandards list (Jan 2026). Population: World Bank, 2025.\n\nWhich side of the road do you drive on: left or right?\n\nSource: World Bank (World Development Indicators: Population, total (SP.POP.TOTL)); WorldStandards (List of left-driving countries); United Nations (Member States).\n\nFollow @worldasadataset for the world, quantified.\n\n#driving #roadtrip #geography #maps #travel #didyouknow #worldmap #worldasadataset",
@@ -946,6 +969,39 @@
    "media/biggest-cities-1975-vs-today/slide_06.jpg"
   ],
   "reel": "media/biggest-cities-1975-vs-today/reel.mp4"
+ },
+ {
+  "slug": "midterm-senate-droughts",
+  "at": "2026-11-10T11:00:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-10T11:00:00Z",
+   "fb_reel": "2026-11-10T11:00:00Z",
+   "yt_short": "2026-11-10T11:00:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "2026 Midterms: States That Got Their First Democratic Senator in Decades",
+  "caption": "2026 Midterms: Kansas elected its first Democratic senator in 88 years.\n\nThe 2026 midterms flipped 7 Republican-held Senate seats, and several ended long droughts.\nKansas last had a Democratic senator in 1939. Texas waited 33 years, Maine 32, South Carolina 22.\nYears counted to the new term in January 2027. Race calls as of 5 November; Alaska and Mississippi were still uncalled.\n\nWhich state surprised you most? One word.\n\nSource: Al Jazeera (Visualising how the US midterms turned the map blue); Statista (Katharina Buchholz) (Democrats Achieve Historic Wins in the Senate); US Senate (Senate.gov) (Senators of the United States by state (KS, TX, ME, SC, IA, NC, OH)).\n\nFollow @worldasadataset for the world, quantified.\n\n#midterms #midterms2026 #senate #uspolitics #election2026 #kansas #texas #data",
+  "slides": [
+   "media/midterm-senate-droughts/slide_01.jpg",
+   "media/midterm-senate-droughts/slide_02.jpg",
+   "media/midterm-senate-droughts/slide_03.jpg",
+   "media/midterm-senate-droughts/slide_04.jpg",
+   "media/midterm-senate-droughts/slide_05.jpg",
+   "media/midterm-senate-droughts/slide_06.jpg"
+  ],
+  "reel": "media/midterm-senate-droughts/reel.mp4"
  },
  {
   "slug": "world-cup-winners",
