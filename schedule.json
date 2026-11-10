@@ -2158,5 +2158,41 @@
    "media/earthquake-hotspots/slide_05.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "internet-languages",
+  "at": "2026-11-11T12:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T12:30:00Z",
+   "fb_reel": "2026-11-13T12:30:00Z",
+   "yt_short": "2026-11-13T12:30:00Z",
+   "threads_reel": "2026-11-13T12:30:00Z",
+   "bsky_reel": "2026-11-13T12:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "What Language Is the Internet In? Websites vs Speakers",
+  "caption": "49.5% of websites are in English, a language about 18% of people speak.\n\nNext: Spanish 6.0%, German 5.9%, Japanese 4.9%, French 4.6%. Chinese, spoken by more people than any language but English, is 1.2%. Hindi is under 0.1%.\nWebsite shares: W3Techs, November 2026. Speakers: Ethnologue 2026, first and second language.\n\nWhat language do you use most online?\n\nSource: W3Techs (Usage statistics of content languages for websites); Ethnologue (SIL Global) (Ethnologue 200, 2026 edition); UN DESA Population Division (World Population Prospects 2024).\n\nFollow @worldasadataset for the world, quantified.\n\n#languages #internet #english #linguistics #tech #didyouknow #dataviz #worldasadataset",
+  "slides": [
+   "media/internet-languages/slide_01.jpg",
+   "media/internet-languages/slide_02.jpg",
+   "media/internet-languages/slide_03.jpg",
+   "media/internet-languages/slide_04.jpg",
+   "media/internet-languages/slide_05.jpg"
+  ],
+  "reel": null
  }
 ]
