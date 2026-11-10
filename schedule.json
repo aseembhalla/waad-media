@@ -61,12 +61,16 @@
    "fb_reel",
    "pin",
    "x_post",
-   "yt_short"
+   "yt_short",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T18:30:00Z",
    "fb_reel": "2026-11-10T18:30:00Z",
-   "yt_short": "2026-11-10T22:00:00Z"
+   "yt_short": "2026-11-10T22:00:00Z",
+   "threads_reel": "2026-11-10T18:30:00Z",
+   "bsky_reel": "2026-11-10T18:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -94,12 +98,16 @@
    "fb_reel",
    "pin",
    "x_post",
-   "yt_short"
+   "yt_short",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T19:30:00Z",
    "fb_reel": "2026-11-10T19:30:00Z",
-   "yt_short": "2026-11-10T22:30:00Z"
+   "yt_short": "2026-11-10T22:30:00Z",
+   "threads_reel": "2026-11-10T19:30:00Z",
+   "bsky_reel": "2026-11-10T19:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -125,11 +133,15 @@
    "ig_reel",
    "fb_reel",
    "pin",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T20:30:00Z",
-   "fb_reel": "2026-11-10T20:30:00Z"
+   "fb_reel": "2026-11-10T20:30:00Z",
+   "threads_reel": "2026-11-10T20:30:00Z",
+   "bsky_reel": "2026-11-10T20:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -157,18 +169,24 @@
    "fb_reel",
    "pin",
    "x_post",
-   "yt_short"
+   "yt_short",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-08T20:43:09Z",
    "fb_reel": "2026-11-08T20:43:09Z",
-   "yt_short": "2026-11-10T07:00:00Z"
+   "yt_short": "2026-11-10T07:00:00Z",
+   "threads_reel": "2026-11-10T13:00:34Z",
+   "bsky_reel": "2026-11-10T13:00:34Z"
   },
   "done": [
+   "bsky_reel",
    "fb_carousel",
    "fb_reel",
    "ig_carousel",
    "ig_reel",
+   "threads_reel",
    "yt_short"
   ],
   "status": "queued",
@@ -194,12 +212,16 @@
    "fb_reel",
    "pin",
    "x_post",
-   "yt_short"
+   "yt_short",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T21:30:00Z",
    "fb_reel": "2026-11-10T21:30:00Z",
-   "yt_short": "2026-11-10T22:20:00Z"
+   "yt_short": "2026-11-10T22:20:00Z",
+   "threads_reel": "2026-11-10T21:30:00Z",
+   "bsky_reel": "2026-11-10T21:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -226,12 +248,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-08T21:43:00Z",
    "fb_reel": "2026-11-08T21:43:00Z",
-   "yt_short": "2026-11-08T21:43:00Z"
+   "yt_short": "2026-11-08T21:43:00Z",
+   "threads_reel": "2026-11-10T15:00:34Z",
+   "bsky_reel": "2026-11-10T15:00:34Z"
   },
   "done": [
    "fb_carousel",
@@ -262,12 +288,16 @@
    "fb_reel",
    "pin",
    "x_post",
-   "yt_short"
+   "yt_short",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T22:30:00Z",
    "fb_reel": "2026-11-10T22:30:00Z",
-   "yt_short": "2026-11-10T22:10:00Z"
+   "yt_short": "2026-11-10T22:10:00Z",
+   "threads_reel": "2026-11-10T22:30:00Z",
+   "bsky_reel": "2026-11-10T22:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -295,12 +325,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-08T22:43:00Z",
    "fb_reel": "2026-11-08T22:43:00Z",
-   "yt_short": "2026-11-08T22:43:00Z"
+   "yt_short": "2026-11-08T22:43:00Z",
+   "threads_reel": "2026-11-10T17:00:34Z",
+   "bsky_reel": "2026-11-10T17:00:34Z"
   },
   "done": [
    "fb_carousel",
@@ -331,12 +365,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T23:30:00Z",
    "fb_reel": "2026-11-10T23:30:00Z",
-   "yt_short": "2026-11-10T23:30:00Z"
+   "yt_short": "2026-11-10T23:30:00Z",
+   "threads_reel": "2026-11-10T23:30:00Z",
+   "bsky_reel": "2026-11-10T23:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -364,18 +402,23 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-08T23:43:00Z",
    "fb_reel": "2026-11-08T23:43:00Z",
-   "yt_short": "2026-11-08T23:43:00Z"
+   "yt_short": "2026-11-08T23:43:00Z",
+   "threads_reel": "2026-11-10T19:00:34Z",
+   "bsky_reel": "2026-11-10T19:00:34Z"
   },
   "done": [
    "fb_carousel",
    "fb_reel",
    "ig_carousel",
-   "ig_reel"
+   "ig_reel",
+   "yt_short"
   ],
   "status": "queued",
   "title": "2026 Midterms: The Biggest Wave Since 1974 in Numbers",
@@ -399,12 +442,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-11T00:30:00Z",
    "fb_reel": "2026-11-11T00:30:00Z",
-   "yt_short": "2026-11-11T00:30:00Z"
+   "yt_short": "2026-11-11T00:30:00Z",
+   "threads_reel": "2026-11-11T00:30:00Z",
+   "bsky_reel": "2026-11-11T00:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -431,12 +478,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-11T01:30:00Z",
    "fb_reel": "2026-11-11T01:30:00Z",
-   "yt_short": "2026-11-11T01:30:00Z"
+   "yt_short": "2026-11-11T01:30:00Z",
+   "threads_reel": "2026-11-11T01:30:00Z",
+   "bsky_reel": "2026-11-11T01:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -464,12 +515,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-11T02:30:00Z",
    "fb_reel": "2026-11-11T02:30:00Z",
-   "yt_short": "2026-11-11T02:30:00Z"
+   "yt_short": "2026-11-11T02:30:00Z",
+   "threads_reel": "2026-11-11T02:30:00Z",
+   "bsky_reel": "2026-11-11T02:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -497,12 +552,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-11T03:30:00Z",
    "fb_reel": "2026-11-11T03:30:00Z",
-   "yt_short": "2026-11-11T03:30:00Z"
+   "yt_short": "2026-11-11T03:30:00Z",
+   "threads_reel": "2026-11-11T03:30:00Z",
+   "bsky_reel": "2026-11-11T03:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -530,12 +589,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-11T04:30:00Z",
    "fb_reel": "2026-11-11T04:30:00Z",
-   "yt_short": "2026-11-11T04:30:00Z"
+   "yt_short": "2026-11-11T04:30:00Z",
+   "threads_reel": "2026-11-11T04:30:00Z",
+   "bsky_reel": "2026-11-11T04:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -563,12 +626,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-11T05:30:00Z",
    "fb_reel": "2026-11-11T05:30:00Z",
-   "yt_short": "2026-11-11T05:30:00Z"
+   "yt_short": "2026-11-11T05:30:00Z",
+   "threads_reel": "2026-11-11T05:30:00Z",
+   "bsky_reel": "2026-11-11T05:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -598,14 +665,18 @@
    "yt_short",
    "x_post",
    "bsky",
-   "threads"
+   "threads",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T00:30:00Z",
    "fb_reel": "2026-11-12T00:30:00Z",
    "yt_short": "2026-11-12T00:30:00Z",
    "bsky": "2026-11-10T07:30:00Z",
-   "threads": "2026-11-10T08:10:00Z"
+   "threads": "2026-11-10T08:10:00Z",
+   "threads_reel": "2026-11-12T00:30:00Z",
+   "bsky_reel": "2026-11-12T00:30:00Z"
   },
   "done": [
    "bsky",
@@ -635,12 +706,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T01:30:00Z",
    "fb_reel": "2026-11-12T01:30:00Z",
-   "yt_short": "2026-11-12T01:30:00Z"
+   "yt_short": "2026-11-12T01:30:00Z",
+   "threads_reel": "2026-11-12T01:30:00Z",
+   "bsky_reel": "2026-11-12T01:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -668,12 +743,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T02:30:00Z",
    "fb_reel": "2026-11-12T02:30:00Z",
-   "yt_short": "2026-11-12T02:30:00Z"
+   "yt_short": "2026-11-12T02:30:00Z",
+   "threads_reel": "2026-11-12T02:30:00Z",
+   "bsky_reel": "2026-11-12T02:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -701,12 +780,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T03:30:00Z",
    "fb_reel": "2026-11-12T03:30:00Z",
-   "yt_short": "2026-11-12T03:30:00Z"
+   "yt_short": "2026-11-12T03:30:00Z",
+   "threads_reel": "2026-11-12T03:30:00Z",
+   "bsky_reel": "2026-11-12T03:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -734,12 +817,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T04:30:00Z",
    "fb_reel": "2026-11-12T04:30:00Z",
-   "yt_short": "2026-11-12T04:30:00Z"
+   "yt_short": "2026-11-12T04:30:00Z",
+   "threads_reel": "2026-11-12T04:30:00Z",
+   "bsky_reel": "2026-11-12T04:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -768,12 +855,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T05:30:00Z",
    "fb_reel": "2026-11-12T05:30:00Z",
-   "yt_short": "2026-11-12T05:30:00Z"
+   "yt_short": "2026-11-12T05:30:00Z",
+   "threads_reel": "2026-11-12T05:30:00Z",
+   "bsky_reel": "2026-11-12T05:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -801,12 +892,16 @@
    "fb_reel",
    "pin",
    "yt_short",
-   "x_post"
+   "x_post",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T06:30:00Z",
    "fb_reel": "2026-11-12T06:30:00Z",
-   "yt_short": "2026-11-12T06:30:00Z"
+   "yt_short": "2026-11-12T06:30:00Z",
+   "threads_reel": "2026-11-12T06:30:00Z",
+   "bsky_reel": "2026-11-12T06:30:00Z"
   },
   "done": [
    "fb_carousel",
@@ -836,12 +931,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T07:30:00Z",
    "fb_reel": "2026-11-12T07:30:00Z",
-   "yt_short": "2026-11-12T07:30:00Z"
+   "yt_short": "2026-11-12T07:30:00Z",
+   "threads_reel": "2026-11-12T07:30:00Z",
+   "bsky_reel": "2026-11-12T07:30:00Z"
   },
   "done": [
    "bsky",
@@ -873,12 +972,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T08:30:00Z",
    "fb_reel": "2026-11-12T08:30:00Z",
-   "yt_short": "2026-11-12T08:30:00Z"
+   "yt_short": "2026-11-12T08:30:00Z",
+   "threads_reel": "2026-11-12T08:30:00Z",
+   "bsky_reel": "2026-11-12T08:30:00Z"
   },
   "done": [
    "bsky",
@@ -911,12 +1014,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T09:30:00Z",
    "fb_reel": "2026-11-12T09:30:00Z",
-   "yt_short": "2026-11-12T09:30:00Z"
+   "yt_short": "2026-11-12T09:30:00Z",
+   "threads_reel": "2026-11-12T09:30:00Z",
+   "bsky_reel": "2026-11-12T09:30:00Z"
   },
   "done": [
    "bsky",
@@ -949,14 +1056,25 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T10:30:00Z",
    "fb_reel": "2026-11-12T10:30:00Z",
-   "yt_short": "2026-11-12T10:30:00Z"
+   "yt_short": "2026-11-12T10:30:00Z",
+   "threads_reel": "2026-11-10T11:59:34Z",
+   "bsky_reel": "2026-11-10T11:59:34Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "bsky_reel",
+   "fb_carousel",
+   "ig_carousel",
+   "threads",
+   "threads_reel"
+  ],
   "status": "queued",
   "title": "Largest Cities in the World 2025 vs 1975 (UN Data)",
   "caption": "In 1975, New York was the world's #3 city. Today it is #22.\n\nJakarta (41.9 million), Dhaka (36.6 million) and Tokyo (33.4 million) now lead.\nThe world had 8 megacities in 1975. It has 33 now.\nFigures use the UN's new harmonised city definition, so they differ from older UN rankings.\n\nWhich city will be number one in 2050?\n\nSource: UN DESA Population Division (World Urbanization Prospects 2025: The World's Cities in 2025, Data Booklet).\n\nFollow @worldasadataset for the world, quantified.\n\n#cities #megacities #urbanization #jakarta #population #worldrankings #data #worldasadataset",
@@ -982,14 +1100,25 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T11:00:00Z",
    "fb_reel": "2026-11-10T11:00:00Z",
-   "yt_short": "2026-11-10T11:00:00Z"
+   "yt_short": "2026-11-10T11:00:00Z",
+   "threads_reel": "2026-11-10T21:00:34Z",
+   "bsky_reel": "2026-11-10T21:00:34Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "fb_reel",
+   "ig_carousel",
+   "ig_reel",
+   "threads"
+  ],
   "status": "queued",
   "title": "2026 Midterms: States That Got Their First Democratic Senator in Decades",
   "caption": "2026 Midterms: Kansas elected its first Democratic senator in 88 years.\n\nThe 2026 midterms flipped 7 Republican-held Senate seats, and several ended long droughts.\nKansas last had a Democratic senator in 1939. Texas waited 33 years, Maine 32, South Carolina 22.\nYears counted to the new term in January 2027. Race calls as of 5 November; Alaska and Mississippi were still uncalled.\n\nWhich state surprised you most? One word.\n\nSource: Al Jazeera (Visualising how the US midterms turned the map blue); Statista (Katharina Buchholz) (Democrats Achieve Historic Wins in the Senate); US Senate (Senate.gov) (Senators of the United States by state (KS, TX, ME, SC, IA, NC, OH)).\n\nFollow @worldasadataset for the world, quantified.\n\n#midterms #midterms2026 #senate #uspolitics #election2026 #kansas #texas #data",
@@ -1015,14 +1144,23 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T11:30:00Z",
    "fb_reel": "2026-11-12T11:30:00Z",
-   "yt_short": "2026-11-12T11:30:00Z"
+   "yt_short": "2026-11-12T11:30:00Z",
+   "threads_reel": "2026-11-12T11:30:00Z",
+   "bsky_reel": "2026-11-12T11:30:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "Which Countries Have Won the World Cup? All 8 Winners and Titles (1930-2026)",
   "caption": "Only 8 countries have ever won the men's World Cup, and all of them are from Europe or South America.\n\nBrazil leads with 5 titles, then Germany and Italy with 4 each, and Argentina with 3.\nFrance, Uruguay and Spain have 2 each; England has 1.\nSpain added the newest star in July 2026, beating Argentina 1-0 after extra time.\nBrazil, Germany and Italy alone hold 13 of the 23 titles.\n\nWhich country will be the ninth winner?\n\nSource: FIFA (Spain crowned FIFA World Cup 2026 Champions in New York New Jersey); FIFA (FIFA World Cup winners, 1930-2022).\n\nFollow @worldasadataset for the world, quantified.\n\n#worldcup #fifaworldcup #worldcup2026 #football #soccer #sportsdata #didyouknow #worldasadataset",
@@ -1048,14 +1186,25 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T12:00:00Z",
    "fb_reel": "2026-11-10T12:00:00Z",
-   "yt_short": "2026-11-10T12:00:00Z"
+   "yt_short": "2026-11-10T12:00:00Z",
+   "threads_reel": "2026-11-10T23:00:34Z",
+   "bsky_reel": "2026-11-10T23:00:34Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "fb_reel",
+   "ig_carousel",
+   "ig_reel",
+   "threads"
+  ],
   "status": "queued",
   "title": "2026 Midterms Exit Polls: What Voters Cared About",
   "caption": "2026 Midterms: 91% of voters said corruption was a crucial or major factor in their vote.\n\nThat's slightly more than said the same about the cost of living (89%).\n63% disapproved of how Trump is handling his job, 54% strongly. 66% said his policies made the economy worse.\nExit poll estimates (AP Voter Poll by SSRS), as reported on 4 November.\n\nCorruption or cost of living: which mattered more to you? One word.\n\nSource: Yahoo News (Andrew Romano) (Democrats' 2026 midterm rout was big — really big. Here are the numbers that prove it); The Associated Press (AP Voter Poll, conducted by SSRS) (What motivated voters in the 2026 midterm elections, according to The AP Voter Poll).\n\nFollow @worldasadataset for the world, quantified.\n\n#midterms #midterms2026 #exitpolls #uspolitics #election2026 #voters #data #worldasadataset",
@@ -1081,14 +1230,23 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T12:30:00Z",
    "fb_reel": "2026-11-12T12:30:00Z",
-   "yt_short": "2026-11-12T12:30:00Z"
+   "yt_short": "2026-11-12T12:30:00Z",
+   "threads_reel": "2026-11-12T12:30:00Z",
+   "bsky_reel": "2026-11-12T12:30:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "How Big Is the Pacific Ocean? Bigger Than All Land on Earth",
   "caption": "The Pacific Ocean is bigger than all the land on Earth put together.\n\nPacific: 168.7 million km². All land, Antarctica included: 148.9 million km².\nDrop every continent and island inside it and 19.8 million km² of ocean is still left over.\nThe Pacific alone covers 33% of Earth's surface. Even NOAA's smaller estimate (162 million km²) beats all land.\n\nWhich ocean have you swum in?\n\nSource: CIA World Factbook (Oceans: Pacific, Atlantic, Indian, Southern, Arctic (archived edition)); CIA World Factbook (World (archived edition)); NOAA National Ocean Service (How big is the Pacific Ocean?); Encyclopaedia Britannica (Pacific Ocean summary).\n\nFollow @worldasadataset for the world, quantified.\n\n#pacificocean #ocean #geography #earth #didyouknow #maps #science #worldasadataset",
@@ -1114,14 +1272,25 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-10T13:00:00Z",
    "fb_reel": "2026-11-10T13:00:00Z",
-   "yt_short": "2026-11-10T13:00:00Z"
+   "yt_short": "2026-11-10T13:00:00Z",
+   "threads_reel": "2026-11-11T01:00:34Z",
+   "bsky_reel": "2026-11-11T01:00:34Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "fb_reel",
+   "ig_carousel",
+   "ig_reel",
+   "threads"
+  ],
   "status": "queued",
   "title": "2026 Midterms: The Most Expensive Senate Races Ever",
   "caption": "2026 Midterms: $573 million in ads for one Senate race. Texas just set the record.\n\nThat's the most ever spent on ads in any US race except for president (AdImpact).\nOnly 3 non-presidential races have topped $500 million: Ohio 2024, Ohio 2026 and Texas 2026.\nTexas spent about 2.8× what its 2024 Senate race drew. Figures include reservations.\n\nIs half a billion dollars for one Senate seat too much? Yes or no?\n\nSource: AdImpact via Gulf News (Texas Senate race becomes costliest in US history at $573 million); AdImpact via ANI (Devdiscourse) (US midterms 2026: Texas Senate race sets record as costliest non-presidential contest); AdImpact via Gray DC / Alaska's News Source (2026 midterms set new record for political ad spending); AdImpact (Cycle in Review 2023-2024).\n\nFollow @worldasadataset for the world, quantified.\n\n#midterms #midterms2026 #senate #uspolitics #election2026 #texas #ohio #money",
@@ -1147,14 +1316,23 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T13:30:00Z",
    "fb_reel": "2026-11-12T13:30:00Z",
-   "yt_short": "2026-11-12T13:30:00Z"
+   "yt_short": "2026-11-12T13:30:00Z",
+   "threads_reel": "2026-11-12T13:30:00Z",
+   "bsky_reel": "2026-11-12T13:30:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "Most Spoken Languages in the World: Native vs Total Speakers",
   "caption": "75% of English speakers learned it as a second language.\n\nEnglish has about 1,493 million speakers in total, but only 372 million native speakers.\nMandarin has 988 million native speakers, 2.7 times as many as English.\nCount everyone who speaks it, though, and English comes out on top.\n\nHow many languages do you speak?\n\nSource: Ethnologue (SIL Global) (Ethnologue 200: the most spoken languages, 2026 (29th edition)).\n\nFollow @worldasadataset for the world, quantified.\n\n#languages #english #mandarin #linguistics #languagelearning #worldrankings #data #worldasadataset",
@@ -1181,12 +1359,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T14:30:00Z",
    "fb_reel": "2026-11-12T14:30:00Z",
-   "yt_short": "2026-11-12T14:30:00Z"
+   "yt_short": "2026-11-12T14:30:00Z",
+   "threads_reel": "2026-11-12T14:30:00Z",
+   "bsky_reel": "2026-11-12T14:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1215,12 +1397,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T15:30:00Z",
    "fb_reel": "2026-11-12T15:30:00Z",
-   "yt_short": "2026-11-12T15:30:00Z"
+   "yt_short": "2026-11-12T15:30:00Z",
+   "threads_reel": "2026-11-12T15:30:00Z",
+   "bsky_reel": "2026-11-12T15:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1248,12 +1434,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T16:30:00Z",
    "fb_reel": "2026-11-12T16:30:00Z",
-   "yt_short": "2026-11-12T16:30:00Z"
+   "yt_short": "2026-11-12T16:30:00Z",
+   "threads_reel": "2026-11-12T16:30:00Z",
+   "bsky_reel": "2026-11-12T16:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1281,12 +1471,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T17:30:00Z",
    "fb_reel": "2026-11-12T17:30:00Z",
-   "yt_short": "2026-11-12T17:30:00Z"
+   "yt_short": "2026-11-12T17:30:00Z",
+   "threads_reel": "2026-11-12T17:30:00Z",
+   "bsky_reel": "2026-11-12T17:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1314,12 +1508,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T18:30:00Z",
    "fb_reel": "2026-11-12T18:30:00Z",
-   "yt_short": "2026-11-12T18:30:00Z"
+   "yt_short": "2026-11-12T18:30:00Z",
+   "threads_reel": "2026-11-12T18:30:00Z",
+   "bsky_reel": "2026-11-12T18:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1347,12 +1545,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T19:30:00Z",
    "fb_reel": "2026-11-12T19:30:00Z",
-   "yt_short": "2026-11-12T19:30:00Z"
+   "yt_short": "2026-11-12T19:30:00Z",
+   "threads_reel": "2026-11-12T19:30:00Z",
+   "bsky_reel": "2026-11-12T19:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1380,12 +1582,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T20:30:00Z",
    "fb_reel": "2026-11-12T20:30:00Z",
-   "yt_short": "2026-11-12T20:30:00Z"
+   "yt_short": "2026-11-12T20:30:00Z",
+   "threads_reel": "2026-11-12T20:30:00Z",
+   "bsky_reel": "2026-11-12T20:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1413,12 +1619,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T21:30:00Z",
    "fb_reel": "2026-11-12T21:30:00Z",
-   "yt_short": "2026-11-12T21:30:00Z"
+   "yt_short": "2026-11-12T21:30:00Z",
+   "threads_reel": "2026-11-12T21:30:00Z",
+   "bsky_reel": "2026-11-12T21:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1446,12 +1656,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T22:30:00Z",
    "fb_reel": "2026-11-12T22:30:00Z",
-   "yt_short": "2026-11-12T22:30:00Z"
+   "yt_short": "2026-11-12T22:30:00Z",
+   "threads_reel": "2026-11-12T22:30:00Z",
+   "bsky_reel": "2026-11-12T22:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1479,12 +1693,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-12T23:30:00Z",
    "fb_reel": "2026-11-12T23:30:00Z",
-   "yt_short": "2026-11-12T23:30:00Z"
+   "yt_short": "2026-11-12T23:30:00Z",
+   "threads_reel": "2026-11-12T23:30:00Z",
+   "bsky_reel": "2026-11-12T23:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1512,12 +1730,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-13T00:30:00Z",
    "fb_reel": "2026-11-13T00:30:00Z",
-   "yt_short": "2026-11-13T00:30:00Z"
+   "yt_short": "2026-11-13T00:30:00Z",
+   "threads_reel": "2026-11-13T00:30:00Z",
+   "bsky_reel": "2026-11-13T00:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1544,12 +1766,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-13T01:30:00Z",
    "fb_reel": "2026-11-13T01:30:00Z",
-   "yt_short": "2026-11-13T01:30:00Z"
+   "yt_short": "2026-11-13T01:30:00Z",
+   "threads_reel": "2026-11-13T01:30:00Z",
+   "bsky_reel": "2026-11-13T01:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1577,12 +1803,16 @@
    "yt_short",
    "x_post",
    "threads",
-   "bsky"
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
   ],
   "target_at": {
    "ig_reel": "2026-11-13T02:30:00Z",
    "fb_reel": "2026-11-13T02:30:00Z",
-   "yt_short": "2026-11-13T02:30:00Z"
+   "yt_short": "2026-11-13T02:30:00Z",
+   "threads_reel": "2026-11-13T02:30:00Z",
+   "bsky_reel": "2026-11-13T02:30:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1597,5 +1827,42 @@
    "media/antarctica-ice/slide_06.jpg"
   ],
   "reel": "media/antarctica-ice/reel.mp4"
+ },
+ {
+  "slug": "space-junk",
+  "at": "2026-11-11T03:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T03:30:00Z",
+   "fb_reel": "2026-11-13T03:30:00Z",
+   "yt_short": "2026-11-13T03:30:00Z",
+   "threads_reel": "2026-11-13T03:30:00Z",
+   "bsky_reel": "2026-11-13T03:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "Space Junk by the Numbers: How Much Debris Orbits Earth",
+  "caption": "47,370 objects are tracked orbiting Earth, and only about 15,800 of them are working satellites.\n\nOf the 28,570 satellites launched since 1957, 3,810 are dead but still in orbit.\nESA estimates 68,450 objects over 10 cm, 1.5 million from 1 to 10 cm and 230 million from 1 mm to 1 cm.\nESA Space Debris Office, figures updated November 2026.\n\nShould satellite operators have to clean up after themselves?\n\nSource: European Space Agency, Space Debris Office (Space debris by the numbers); European Space Agency (ESA's Space Environment Report 2026).\n\nFollow @worldasadataset for the world, quantified.\n\n#space #spacedebris #satellites #esa #orbit #science #dataviz #worldasadataset",
+  "slides": [
+   "media/space-junk/slide_01.jpg",
+   "media/space-junk/slide_02.jpg",
+   "media/space-junk/slide_03.jpg",
+   "media/space-junk/slide_04.jpg",
+   "media/space-junk/slide_05.jpg",
+   "media/space-junk/slide_06.jpg"
+  ],
+  "reel": null
  }
 ]
