@@ -1864,5 +1864,42 @@
    "media/space-junk/slide_06.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "big-mac-prices-2026",
+  "at": "2026-11-11T04:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T04:30:00Z",
+   "fb_reel": "2026-11-13T04:30:00Z",
+   "yt_short": "2026-11-13T04:30:00Z",
+   "threads_reel": "2026-11-13T04:30:00Z",
+   "bsky_reel": "2026-11-13T04:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "Big Mac Prices Around the World (July {lit:2026}): Cheapest to Most Expensive",
+  "caption": "A Big Mac costs $9.04 in Switzerland and $2.38 in Indonesia.\n\nThe US price is $6.22. India's Maharaja Mac (chicken) is $2.45.\nThe Economist's Big Mac index compares the same burger in 54 economies to see which currencies look over- or undervalued.\nJuly 2026 edition, prices in US dollars at market exchange rates.\n\nWhat does a Big Mac cost where you live?\n\nSource: The Economist (The Big Mac index, July 2026 (open data)).\n\nFollow @worldasadataset for the world, quantified.\n\n#bigmacindex #economics #money #prices #travel #didyouknow #dataviz #worldasadataset",
+  "slides": [
+   "media/big-mac-prices-2026/slide_01.jpg",
+   "media/big-mac-prices-2026/slide_02.jpg",
+   "media/big-mac-prices-2026/slide_03.jpg",
+   "media/big-mac-prices-2026/slide_04.jpg",
+   "media/big-mac-prices-2026/slide_05.jpg",
+   "media/big-mac-prices-2026/slide_06.jpg"
+  ],
+  "reel": null
  }
 ]
