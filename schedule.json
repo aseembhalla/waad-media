@@ -2122,5 +2122,41 @@
    "media/grand-slam-titles/slide_06.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "earthquake-hotspots",
+  "at": "2026-11-11T11:30:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-13T11:30:00Z",
+   "fb_reel": "2026-11-13T11:30:00Z",
+   "yt_short": "2026-11-13T11:30:00Z",
+   "threads_reel": "2026-11-13T11:30:00Z",
+   "bsky_reel": "2026-11-13T11:30:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "Countries With the Most Earthquakes (M{lit:5}+, {lit:2016}-{lit:2025})",
+  "caption": "Earth had 17,503 earthquakes of magnitude 5 or more from 2016 to 2025: almost 5 a day.\n\nIndonesia had the most (1,721), then Papua New Guinea (1,072), Japan (1,066), Russia (867) and the Philippines (821).\nThe largest was a magnitude 8.8 off Kamchatka in July 2025.\nSource: USGS earthquake catalogue. Each quake counted for the country USGS names in its location.\n\nHave you ever felt an earthquake? How strong was it?\n\nSource: U.S. Geological Survey (ANSS Comprehensive Earthquake Catalog (ComCat)).\n\nFollow @worldasadataset for the world, quantified.\n\n#earthquake #ringoffire #geology #indonesia #japan #science #dataviz #worldasadataset",
+  "slides": [
+   "media/earthquake-hotspots/slide_01.jpg",
+   "media/earthquake-hotspots/slide_02.jpg",
+   "media/earthquake-hotspots/slide_03.jpg",
+   "media/earthquake-hotspots/slide_04.jpg",
+   "media/earthquake-hotspots/slide_05.jpg"
+  ],
+  "reel": null
  }
 ]
