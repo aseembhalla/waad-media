@@ -2300,7 +2300,7 @@
   "reel": null
  },
  {
-  "slug": "electric-car-share",
+  "slug": "highest-grossing-films",
   "at": "2026-11-15T14:00:00Z",
   "targets": [
    "ig_carousel",
@@ -2321,6 +2321,42 @@
    "yt_short": "2026-11-17T17:00:00Z",
    "threads_reel": "2026-11-17T17:00:00Z",
    "bsky_reel": "2026-11-17T17:00:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "The {lit:15} Highest-Grossing Films of All Time (Nov {lit:2026})",
+  "caption": "Avengers: Endgame is still the highest-grossing film ever: $2.94 billion worldwide.\n\nAvatar is $19 million behind at $2.92 billion. Spider-Man: Brand New Day (2026, still in cinemas) is third with $2.52 billion.\nFor every film in the top 8, most of the money came from outside the US and Canada.\nBox Office Mojo, worldwide cinema grosses as of 11 Nov 2026, not adjusted for inflation.\n\nWhich film on this list have you watched in a cinema?\n\nSource: Box Office Mojo (IMDbPro) (Top Lifetime Grosses, worldwide).\n\nFollow @worldasadataset for the world, quantified.\n\n#movies #boxoffice #film #cinema #avatar #marvel #dataviz #worldasadataset",
+  "slides": [
+   "media/highest-grossing-films/slide_01.jpg",
+   "media/highest-grossing-films/slide_02.jpg",
+   "media/highest-grossing-films/slide_03.jpg",
+   "media/highest-grossing-films/slide_04.jpg",
+   "media/highest-grossing-films/slide_05.jpg"
+  ],
+  "reel": null
+ },
+ {
+  "slug": "electric-car-share",
+  "at": "2026-11-15T18:00:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-17T21:00:00Z",
+   "fb_reel": "2026-11-17T21:00:00Z",
+   "yt_short": "2026-11-17T21:00:00Z",
+   "threads_reel": "2026-11-17T21:00:00Z",
+   "bsky_reel": "2026-11-17T21:00:00Z"
   },
   "done": [],
   "status": "queued",
