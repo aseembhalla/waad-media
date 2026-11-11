@@ -526,12 +526,14 @@
      "url": "https://www.facebook.com/reel/2203121110238799"
     },
     "threads_reel": {
-     "s": "pending",
-     "t": "2026-11-11T09:00:00Z"
+     "s": "posted",
+     "t": "2026-11-11T09:04:03+00:00",
+     "url": "https://www.threads.com/@worldasadataset/post/DfmHX7-zyCG"
     },
     "bsky_reel": {
-     "s": "pending",
-     "t": "2026-11-11T09:00:00Z"
+     "s": "posted",
+     "t": "2026-11-11T09:04:16+00:00",
+     "url": "https://bsky.app/profile/did:plc:fsdtuqhzmwhhhj7reflydhyc/post/3mzzlxetgmt2x"
     },
     "yt_short": {
      "s": "posted",
@@ -540,7 +542,7 @@
     }
    },
    "published": true,
-   "partial": true,
+   "partial": false,
    "failed": false
   },
   {
