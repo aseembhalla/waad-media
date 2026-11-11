@@ -2372,7 +2372,7 @@
   "reel": null
  },
  {
-  "slug": "busiest-airports-2025",
+  "slug": "unesco-heritage-sites",
   "at": "2026-11-16T02:00:00Z",
   "targets": [
    "ig_carousel",
@@ -2396,20 +2396,19 @@
   },
   "done": [],
   "status": "queued",
-  "title": "The World's Busiest Airports in {lit:2025} (ACI Ranking)",
-  "caption": "Atlanta was the world's busiest airport again in 2025: 106.3 million passengers.\n\nThen Dubai (95.2m), Tokyo Haneda (91.7m), Dallas/Fort Worth (85.7m) and Shanghai Pudong (85.0m). The top 10 handled about 9% of the world's 9.8 billion passengers.\nFor international passengers Dubai leads, ahead of London Heathrow. ACI World Airport Traffic Rankings 2025.\n\nWhich is the busiest airport you've flown through?\n\nSource: Airports Council International (ACI World) (Busiest airports in the world 2025 (World Airport Traffic Rankings)).\n\nFollow @worldasadataset for the world, quantified.\n\n#aviation #airports #travel #avgeek #atlanta #dubai #dataviz #worldasadataset",
+  "title": "Countries With the Most UNESCO World Heritage Sites ({lit:2026})",
+  "caption": "Italy has 62 UNESCO World Heritage sites, the most of any country, one ahead of China (61).\n\nThen France (56), Germany (55), Spain (50) and India (45). There are 1,273 sites in all, 25 of them added in 2026; 54 are on the 'in danger' list.\nSource: UNESCO World Heritage List (official data). Shared sites count for each country.\n\nHow many World Heritage sites have you visited?\n\nSource: UNESCO World Heritage Centre (World Heritage List (official XML export)).\n\nFollow @worldasadataset for the world, quantified.\n\n#unesco #worldheritage #travel #history #italy #culture #dataviz #worldasadataset",
   "slides": [
-   "media/busiest-airports-2025/slide_01.jpg",
-   "media/busiest-airports-2025/slide_02.jpg",
-   "media/busiest-airports-2025/slide_03.jpg",
-   "media/busiest-airports-2025/slide_04.jpg",
-   "media/busiest-airports-2025/slide_05.jpg",
-   "media/busiest-airports-2025/slide_06.jpg"
+   "media/unesco-heritage-sites/slide_01.jpg",
+   "media/unesco-heritage-sites/slide_02.jpg",
+   "media/unesco-heritage-sites/slide_03.jpg",
+   "media/unesco-heritage-sites/slide_04.jpg",
+   "media/unesco-heritage-sites/slide_05.jpg"
   ],
   "reel": null
  },
  {
-  "slug": "plastic-production",
+  "slug": "busiest-airports-2025",
   "at": "2026-11-16T06:00:00Z",
   "targets": [
    "ig_carousel",
@@ -2433,19 +2432,20 @@
   },
   "done": [],
   "status": "queued",
-  "title": "How Much Plastic Does the World Make? {lit:460} Million Tonnes a Year",
-  "caption": "The world made 460 million tonnes of plastic in 2019: more than the weight of every human alive.\n\nThat's 230× as much as in 1950. Of all the plastic made since 1950 (about 9,540 million tonnes), 67% was made in 2000-2019.\nGeyer et al. (2017) and OECD (2022) via Our World in Data; human biomass from Greenspoon et al. (2023). Latest complete year: 2019.\n\nHow many plastic items have you used today?\n\nSource: Geyer et al. (2017) and OECD Global Plastics Outlook (2022), via Our World in Data (Global plastics production); Greenspoon et al., PNAS (The global biomass of wild mammals (2023)).\n\nFollow @worldasadataset for the world, quantified.\n\n#plastic #plasticpollution #environment #recycling #sustainability #ocean #dataviz #worldasadataset",
+  "title": "The World's Busiest Airports in {lit:2025} (ACI Ranking)",
+  "caption": "Atlanta was the world's busiest airport again in 2025: 106.3 million passengers.\n\nThen Dubai (95.2m), Tokyo Haneda (91.7m), Dallas/Fort Worth (85.7m) and Shanghai Pudong (85.0m). The top 10 handled about 9% of the world's 9.8 billion passengers.\nFor international passengers Dubai leads, ahead of London Heathrow. ACI World Airport Traffic Rankings 2025.\n\nWhich is the busiest airport you've flown through?\n\nSource: Airports Council International (ACI World) (Busiest airports in the world 2025 (World Airport Traffic Rankings)).\n\nFollow @worldasadataset for the world, quantified.\n\n#aviation #airports #travel #avgeek #atlanta #dubai #dataviz #worldasadataset",
   "slides": [
-   "media/plastic-production/slide_01.jpg",
-   "media/plastic-production/slide_02.jpg",
-   "media/plastic-production/slide_03.jpg",
-   "media/plastic-production/slide_04.jpg",
-   "media/plastic-production/slide_05.jpg"
+   "media/busiest-airports-2025/slide_01.jpg",
+   "media/busiest-airports-2025/slide_02.jpg",
+   "media/busiest-airports-2025/slide_03.jpg",
+   "media/busiest-airports-2025/slide_04.jpg",
+   "media/busiest-airports-2025/slide_05.jpg",
+   "media/busiest-airports-2025/slide_06.jpg"
   ],
   "reel": null
  },
  {
-  "slug": "nobel-prizes-by-country",
+  "slug": "plastic-production",
   "at": "2026-11-16T10:00:00Z",
   "targets": [
    "ig_carousel",
@@ -2469,19 +2469,19 @@
   },
   "done": [],
   "status": "queued",
-  "title": "Nobel Prize Winners by Country of Birth ({lit:1901}-{lit:2026})",
-  "caption": "299 Nobel Prize winners were born in the United States, the most of any country.\n\nNext: the UK (110), Germany (86), France (64) and Japan (31). Counts use country of birth in today's borders, 1901-2026.\nOf 1,000 individual laureates, 69 are women.\nSource: Nobel Prize official data (api.nobelprize.org).\n\nWhich Nobel Prize would you most like to win?\n\nSource: Nobel Prize Outreach (official API) (Nobel Prize laureates, api.nobelprize.org 2.1).\n\nFollow @worldasadataset for the world, quantified.\n\n#nobelprize #science #history #physics #literature #didyouknow #dataviz #worldasadataset",
+  "title": "How Much Plastic Does the World Make? {lit:460} Million Tonnes a Year",
+  "caption": "The world made 460 million tonnes of plastic in 2019: more than the weight of every human alive.\n\nThat's 230× as much as in 1950. Of all the plastic made since 1950 (about 9,540 million tonnes), 67% was made in 2000-2019.\nGeyer et al. (2017) and OECD (2022) via Our World in Data; human biomass from Greenspoon et al. (2023). Latest complete year: 2019.\n\nHow many plastic items have you used today?\n\nSource: Geyer et al. (2017) and OECD Global Plastics Outlook (2022), via Our World in Data (Global plastics production); Greenspoon et al., PNAS (The global biomass of wild mammals (2023)).\n\nFollow @worldasadataset for the world, quantified.\n\n#plastic #plasticpollution #environment #recycling #sustainability #ocean #dataviz #worldasadataset",
   "slides": [
-   "media/nobel-prizes-by-country/slide_01.jpg",
-   "media/nobel-prizes-by-country/slide_02.jpg",
-   "media/nobel-prizes-by-country/slide_03.jpg",
-   "media/nobel-prizes-by-country/slide_04.jpg",
-   "media/nobel-prizes-by-country/slide_05.jpg"
+   "media/plastic-production/slide_01.jpg",
+   "media/plastic-production/slide_02.jpg",
+   "media/plastic-production/slide_03.jpg",
+   "media/plastic-production/slide_04.jpg",
+   "media/plastic-production/slide_05.jpg"
   ],
   "reel": null
  },
  {
-  "slug": "highest-grossing-films",
+  "slug": "nobel-prizes-by-country",
   "at": "2026-11-16T14:00:00Z",
   "targets": [
    "ig_carousel",
@@ -2505,19 +2505,19 @@
   },
   "done": [],
   "status": "queued",
-  "title": "The {lit:15} Highest-Grossing Films of All Time (Nov {lit:2026})",
-  "caption": "Avengers: Endgame is still the highest-grossing film ever: $2.94 billion worldwide.\n\nAvatar is $19 million behind at $2.92 billion. Spider-Man: Brand New Day (2026, still in cinemas) is third with $2.52 billion.\nFor every film in the top 8, most of the money came from outside the US and Canada.\nBox Office Mojo, worldwide cinema grosses as of 11 Nov 2026, not adjusted for inflation.\n\nWhich film on this list have you watched in a cinema?\n\nSource: Box Office Mojo (IMDbPro) (Top Lifetime Grosses, worldwide).\n\nFollow @worldasadataset for the world, quantified.\n\n#movies #boxoffice #film #cinema #avatar #marvel #dataviz #worldasadataset",
+  "title": "Nobel Prize Winners by Country of Birth ({lit:1901}-{lit:2026})",
+  "caption": "299 Nobel Prize winners were born in the United States, the most of any country.\n\nNext: the UK (110), Germany (86), France (64) and Japan (31). Counts use country of birth in today's borders, 1901-2026.\nOf 1,000 individual laureates, 69 are women.\nSource: Nobel Prize official data (api.nobelprize.org).\n\nWhich Nobel Prize would you most like to win?\n\nSource: Nobel Prize Outreach (official API) (Nobel Prize laureates, api.nobelprize.org 2.1).\n\nFollow @worldasadataset for the world, quantified.\n\n#nobelprize #science #history #physics #literature #didyouknow #dataviz #worldasadataset",
   "slides": [
-   "media/highest-grossing-films/slide_01.jpg",
-   "media/highest-grossing-films/slide_02.jpg",
-   "media/highest-grossing-films/slide_03.jpg",
-   "media/highest-grossing-films/slide_04.jpg",
-   "media/highest-grossing-films/slide_05.jpg"
+   "media/nobel-prizes-by-country/slide_01.jpg",
+   "media/nobel-prizes-by-country/slide_02.jpg",
+   "media/nobel-prizes-by-country/slide_03.jpg",
+   "media/nobel-prizes-by-country/slide_04.jpg",
+   "media/nobel-prizes-by-country/slide_05.jpg"
   ],
   "reel": null
  },
  {
-  "slug": "electric-car-share",
+  "slug": "highest-grossing-films",
   "at": "2026-11-16T18:00:00Z",
   "targets": [
    "ig_carousel",
@@ -2538,6 +2538,42 @@
    "yt_short": "2026-11-18T21:00:00Z",
    "threads_reel": "2026-11-18T21:00:00Z",
    "bsky_reel": "2026-11-18T21:00:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "The {lit:15} Highest-Grossing Films of All Time (Nov {lit:2026})",
+  "caption": "Avengers: Endgame is still the highest-grossing film ever: $2.94 billion worldwide.\n\nAvatar is $19 million behind at $2.92 billion. Spider-Man: Brand New Day (2026, still in cinemas) is third with $2.52 billion.\nFor every film in the top 8, most of the money came from outside the US and Canada.\nBox Office Mojo, worldwide cinema grosses as of 11 Nov 2026, not adjusted for inflation.\n\nWhich film on this list have you watched in a cinema?\n\nSource: Box Office Mojo (IMDbPro) (Top Lifetime Grosses, worldwide).\n\nFollow @worldasadataset for the world, quantified.\n\n#movies #boxoffice #film #cinema #avatar #marvel #dataviz #worldasadataset",
+  "slides": [
+   "media/highest-grossing-films/slide_01.jpg",
+   "media/highest-grossing-films/slide_02.jpg",
+   "media/highest-grossing-films/slide_03.jpg",
+   "media/highest-grossing-films/slide_04.jpg",
+   "media/highest-grossing-films/slide_05.jpg"
+  ],
+  "reel": null
+ },
+ {
+  "slug": "electric-car-share",
+  "at": "2026-11-17T02:00:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-19T09:00:00Z",
+   "fb_reel": "2026-11-19T09:00:00Z",
+   "yt_short": "2026-11-19T09:00:00Z",
+   "threads_reel": "2026-11-19T09:00:00Z",
+   "bsky_reel": "2026-11-19T09:00:00Z"
   },
   "done": [],
   "status": "queued",
