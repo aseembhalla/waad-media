@@ -2298,5 +2298,41 @@
    "media/planet-moons/slide_06.jpg"
   ],
   "reel": null
+ },
+ {
+  "slug": "electric-car-share",
+  "at": "2026-11-15T14:00:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-17T17:00:00Z",
+   "fb_reel": "2026-11-17T17:00:00Z",
+   "yt_short": "2026-11-17T17:00:00Z",
+   "threads_reel": "2026-11-17T17:00:00Z",
+   "bsky_reel": "2026-11-17T17:00:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "Electric Cars' Share of New Car Sales by Country ({lit:2025})",
+  "caption": "97% of new cars sold in Norway in 2025 were electric.\n\nWorldwide it was 25%, up from 4% in 2020. China reached 53%, the EU 27%, the US 10% and India 4%.\nIEA Global EV Outlook 2026 via Our World in Data. Electric = battery-electric and plug-in hybrid.\n\nWould your next car be electric?\n\nSource: International Energy Agency, via Our World in Data (Global EV Outlook 2026: share of new cars sold that are electric).\n\nFollow @worldasadataset for the world, quantified.\n\n#ev #electriccars #tesla #cleanenergy #cars #norway #dataviz #worldasadataset",
+  "slides": [
+   "media/electric-car-share/slide_01.jpg",
+   "media/electric-car-share/slide_02.jpg",
+   "media/electric-car-share/slide_03.jpg",
+   "media/electric-car-share/slide_04.jpg",
+   "media/electric-car-share/slide_05.jpg"
+  ],
+  "reel": null
  }
 ]
