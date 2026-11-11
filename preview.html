@@ -6,30 +6,57 @@
 <meta name="robots" content="noindex">
 <title>WAAD post preview</title>
 <style>
-  :root { --bg:#081424; --card:#0e1f36; --ink:#eef3fa; --muted:#93a4bb; --accent:#1FAFFC; --hl:#FFA63D; --line:#1d3352; }
+  :root { --bg:#081424; --card:#0e1f36; --ink:#eef3fa; --muted:#93a4bb; --accent:#1FAFFC; --hl:#FFA63D; --line:#1d3352;
+          --ok:#3ccf91; --warn:#FFA63D; --bad:#ff5d6c; --chip:#0a182b; }
   * { box-sizing: border-box; }
   body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }
   header { position:sticky; top:0; z-index:5; background:var(--bg); border-bottom:1px solid var(--line);
-           padding:12px max(16px,env(safe-area-inset-left)); display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
-  header h1 { font-size:17px; margin:0; flex:1; min-width:180px; }
+           padding:12px max(16px,env(safe-area-inset-left)); display:flex; gap:10px 12px; align-items:center; flex-wrap:wrap; }
+  header h1 { font-size:17px; margin:0; flex:1; min-width:160px; }
+  .tabs { display:flex; gap:6px; }
   .tabs button { background:none; border:1px solid var(--line); color:var(--muted); padding:6px 12px; border-radius:16px; font:inherit; cursor:pointer; }
   .tabs button[aria-pressed="true"] { color:var(--bg); background:var(--accent); border-color:var(--accent); }
+  .filter { display:flex; align-items:center; gap:6px; color:var(--muted); font-size:13px; cursor:pointer; user-select:none; }
+  .filter input { accent-color:var(--warn); }
   main { max-width:760px; margin:0 auto; padding:8px 16px 48px; }
   h2 { font-size:13px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin:28px 0 10px; }
   .post { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px; margin-bottom:16px; }
-  .meta { display:flex; gap:10px; align-items:baseline; flex-wrap:wrap; }
+  .post.partial { border-color:var(--warn); box-shadow:inset 3px 0 0 var(--warn); }
+  .post.problem { border-color:var(--bad); box-shadow:inset 3px 0 0 var(--bad); }
+  .meta { display:flex; gap:8px 10px; align-items:baseline; flex-wrap:wrap; }
   .time { color:var(--hl); font-weight:700; font-variant-numeric:tabular-nums; }
-  .title { font-weight:650; }
-  .targets { color:var(--muted); font-size:13px; margin-top:2px; }
+  .title { font-weight:650; flex:1; min-width:200px; }
+  .badge { font-size:11px; font-weight:700; letter-spacing:.04em; text-transform:uppercase; padding:2px 8px; border-radius:10px; }
+  .badge.partial { background:rgba(255,166,61,.16); color:var(--warn); }
+  .badge.problem { background:rgba(255,93,108,.16); color:var(--bad); }
+  .rows { margin-top:10px; display:grid; gap:6px; }
+  .row { display:grid; grid-template-columns:72px 1fr; gap:8px; align-items:start; }
+  .row > span { color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.06em; padding-top:5px; }
+  .chips { display:flex; flex-wrap:wrap; gap:6px; }
+  .chip { display:inline-flex; align-items:center; gap:6px; background:var(--chip); border:1px solid var(--line);
+          border-radius:14px; padding:3px 10px; font-size:13px; color:var(--ink); text-decoration:none; white-space:nowrap; }
+  .chip i { width:8px; height:8px; border-radius:50%; flex:0 0 auto; background:var(--muted); }
+  .chip small { color:var(--muted); font-size:12px; font-variant-numeric:tabular-nums; }
+  .chip.posted i { background:var(--ok); }
+  a.chip.posted:hover { border-color:var(--ok); }
+  .chip.pending i { background:transparent; border:1.5px solid var(--accent); }
+  .chip.overdue i { background:var(--bad); } .chip.overdue small { color:var(--bad); }
+  .chip.failed { border-color:rgba(255,93,108,.5); } .chip.failed i { background:var(--bad); } .chip.failed small { color:var(--bad); }
+  .chip.off, .chip.none { color:var(--muted); opacity:.6; }
+  .chip.off i, .chip.none i { background:none; border:1.5px dashed var(--muted); }
+  .err { color:var(--bad); font-size:12px; margin-top:4px; overflow-wrap:anywhere; }
   .slides { display:flex; gap:8px; overflow-x:auto; scroll-snap-type:x mandatory; margin:12px 0 8px; padding-bottom:6px; }
-  .slides img { width:220px; flex:0 0 auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px; scroll-snap-align:start; background:#000; cursor:zoom-in; }
+  .slides img { width:200px; flex:0 0 auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px; scroll-snap-align:start; background:#000; cursor:zoom-in; }
   details { margin-top:6px; } summary { cursor:pointer; color:var(--accent); }
   pre { white-space:pre-wrap; font:inherit; color:var(--ink); background:#0a182b; padding:10px; border-radius:8px; margin:8px 0 0; }
   video { width:220px; max-width:100%; aspect-ratio:9/16; border-radius:8px; background:#000; margin-top:8px; }
+  .legend { color:var(--muted); font-size:12px; display:flex; flex-wrap:wrap; gap:4px 14px; margin:12px 0 0; }
+  .legend .chip { padding:0; background:none; border:0; font-size:12px; color:var(--muted); }
   .empty { color:var(--muted); text-align:center; padding:40px 0; }
   #zoom { position:fixed; inset:0; background:rgba(0,0,0,.92); display:flex; align-items:center; justify-content:center; z-index:9; padding:16px; }
   #zoom[hidden] { display:none; }
   #zoom img { max-width:100%; max-height:100%; border-radius:8px; }
+  @media (max-width:480px) { .row { grid-template-columns:1fr; gap:4px; } .row > span { padding-top:0; } .slides img { width:160px; } }
 </style>
 </head>
 <body>
@@ -39,39 +66,74 @@
     <button id="t-up" aria-pressed="true">Upcoming</button>
     <button id="t-done" aria-pressed="false">Published</button>
   </div>
+  <label class="filter"><input type="checkbox" id="only"> Only partial / failed</label>
 </header>
-<main id="list"><p class="empty">Loading…</p></main>
+<main>
+  <div class="legend">
+    <span class="chip posted"><i></i>posted</span><span class="chip pending"><i></i>pending</span>
+    <span class="chip overdue"><i></i>overdue / failed</span><span class="chip off"><i></i>off / not scheduled</span>
+  </div>
+  <div id="list"><p class="empty">Loading…</p></div>
+</main>
 <div id="zoom" hidden></div>
 <script>
-const NAMES = {ig_carousel:"Instagram", fb_carousel:"Facebook", ig_reel:"IG Reel", fb_reel:"FB Reel", pin:"Pinterest", yt_short:"YouTube", x_post:"X"};
-let data = [], mode = "up";
+let posts = [], platforms = {carousel: [], video: []}, mode = "up", only = false;
+const OVERDUE_MS = 60 * 60 * 1000;
 const fmtDay = new Intl.DateTimeFormat(undefined, {weekday:"long", day:"numeric", month:"short"});
+const fmtShort = new Intl.DateTimeFormat(undefined, {weekday:"short", day:"numeric", month:"short"});
 const fmtTime = new Intl.DateTimeFormat(undefined, {hour:"2-digit", minute:"2-digit"});
-// Published = all feed targets done, or its time passed more than 30 min ago
-// (schedule.json is refreshed when posts are queued, not when they go live).
-function isDone(p) {
-  if (new Date(p.at).getTime() < Date.now() - 30 * 60 * 1000) return true;
-  return ["ig_carousel","fb_carousel"].every(t => !p.targets.includes(t) || p.done.includes(t));
+function when(iso) {
+  if (!iso) return "";
+  const d = new Date(iso), today = new Date();
+  const same = d.toDateString() === today.toDateString();
+  return (same ? "today " : fmtShort.format(d) + ", ") + fmtTime.format(d);
 }
-function esc(s) { return s.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c])); }
+function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function overdue(st) { return st.s === "pending" && st.t && new Date(st.t).getTime() < Date.now() - OVERDUE_MS; }
+function problem(p) {
+  return p.failed || [...Object.values(p.carousel), ...Object.values(p.video)].some(overdue);
+}
+function chip(name, st) {
+  let cls = st.s, txt = "";
+  if (st.s === "posted") txt = st.t ? when(st.t) : "posted";
+  else if (st.s === "pending") { txt = when(st.t); if (overdue(st)) { cls = "pending overdue"; txt += " · overdue"; } }
+  else if (st.s === "failed") txt = `failed${st.n ? " ×" + st.n : ""}`;
+  else if (st.s === "off") txt = "off";
+  else txt = "—";
+  const title = st.s === "failed" && st.err ? ` title="${esc(st.err)}"` : "";
+  const inner = `<i></i>${esc(name)} <small>${esc(txt)}</small>`;
+  return st.url ? `<a class="chip ${cls}" href="${esc(st.url)}" target="_blank" rel="noopener">${inner}</a>`
+                : `<span class="chip ${cls}"${title}>${inner}</span>`;
+}
+function row(label, list, statuses) {
+  return `<div class="row"><span>${label}</span><div class="chips">${
+    list.map(([k, name]) => chip(name, statuses[k] || {s: "none"})).join("")}</div></div>`;
+}
 function render() {
   const list = document.getElementById("list");
-  const items = data.filter(p => mode === "up" ? !isDone(p) : isDone(p));
-  if (mode === "done") items.reverse();
-  if (!items.length) { list.innerHTML = '<p class="empty">Nothing here yet.</p>'; return; }
+  let items = posts.filter(p => mode === "up" ? !p.published : p.published);
+  if (only) items = items.filter(p => p.partial || problem(p));
+  if (mode === "done") items = items.slice().reverse();
+  const nUp = posts.filter(p => !p.published).length, nDone = posts.length - nUp;
+  document.getElementById("t-up").textContent = `Upcoming (${nUp})`;
+  document.getElementById("t-done").textContent = `Published (${nDone})`;
+  if (!items.length) { list.innerHTML = '<p class="empty">Nothing here.</p>'; return; }
   let html = "", day = "";
   for (const p of items) {
     const at = new Date(p.at), d = fmtDay.format(at);
     if (d !== day) { html += `<h2>${d}</h2>`; day = d; }
-    const reelAt = p.target_at && (p.target_at.ig_reel || p.target_at.fb_reel);
-    const reelNote = reelAt ? `Reel: ${fmtDay.format(new Date(reelAt))}, ${fmtTime.format(new Date(reelAt))}` : "";
-    const tg = p.targets.map(t => NAMES[t] || t).join(" · ");
-    html += `<article class="post">
-      <div class="meta"><span class="time">${fmtTime.format(at)}</span><span class="title">${esc(p.title)}</span></div>
-      <div class="targets">${tg}${reelNote ? " — " + reelNote : ""}</div>
-      <div class="slides">${p.slides.map(s => `<img loading="lazy" src="${s}" alt="">`).join("")}</div>
+    const bad = problem(p);
+    const badges = (bad ? '<span class="badge problem">Needs attention</span>' : "")
+                 + (p.partial ? '<span class="badge partial">Partial</span>' : "");
+    const errs = [...Object.entries(p.carousel), ...Object.entries(p.video)]
+      .filter(([, st]) => st.s === "failed" && st.err)
+      .map(([k, st]) => `<div class="err">${esc(k)}: ${esc(st.err)}</div>`).join("");
+    html += `<article class="post${bad ? " problem" : p.partial ? " partial" : ""}">
+      <div class="meta"><span class="time">${fmtTime.format(at)}</span><span class="title">${esc(p.title)}</span>${badges}</div>
+      <div class="rows">${row("Carousel", platforms.carousel, p.carousel)}${row("Video", platforms.video, p.video)}</div>${errs}
+      <div class="slides">${p.slides.map(s => `<img loading="lazy" src="${esc(s)}" alt="">`).join("")}</div>
       <details><summary>Caption</summary><pre>${esc(p.caption)}</pre></details>
-      ${p.reel ? `<details><summary>Reel</summary><video controls preload="none" src="${p.reel}"></video></details>` : ""}
+      ${p.reel ? `<details><summary>Reel</summary><video controls preload="none" src="${esc(p.reel)}"></video></details>` : ""}
     </article>`;
   }
   list.innerHTML = html;
@@ -84,13 +146,15 @@ for (const [id, m] of [["t-up","up"],["t-done","done"]]) {
     render();
   };
 }
+document.getElementById("only").onchange = e => { only = e.target.checked; render(); };
 document.addEventListener("click", e => {
   const z = document.getElementById("zoom");
   if (e.target.matches(".slides img")) { z.innerHTML = `<img src="${e.target.src}" alt="">`; z.hidden = false; }
   else if (!z.hidden && z.contains(e.target)) z.hidden = true;
 });
-fetch("schedule.json?" + Date.now()).then(r => r.json()).then(d => { data = d; render(); })
-  .catch(() => { document.getElementById("list").innerHTML = '<p class="empty">Could not load the schedule.</p>'; });
+fetch("schedule.json?" + Date.now()).then(r => r.json()).then(d => {
+  posts = Array.isArray(d) ? [] : d.posts; platforms = d.platforms || platforms; render();
+}).catch(() => { document.getElementById("list").innerHTML = '<p class="empty">Could not load the schedule.</p>'; });
 </script>
 </body>
 </html>
