@@ -66,15 +66,20 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-10T18:30:00Z",
-   "fb_reel": "2026-11-10T18:30:00Z",
-   "yt_short": "2026-11-10T22:00:00Z",
-   "threads_reel": "2026-11-10T18:30:00Z",
-   "bsky_reel": "2026-11-10T18:30:00Z"
+   "ig_reel": "2026-11-10T17:00:00Z",
+   "fb_reel": "2026-11-10T17:00:00Z",
+   "yt_short": "2026-11-10T17:00:00Z",
+   "threads_reel": "2026-11-10T17:00:00Z",
+   "bsky_reel": "2026-11-10T17:00:00Z"
   },
   "done": [
+   "bsky_reel",
    "fb_carousel",
-   "ig_carousel"
+   "fb_reel",
+   "ig_carousel",
+   "ig_reel",
+   "threads_reel",
+   "yt_short"
   ],
   "status": "queued",
   "title": "If the World Were 100 People: Population by Region (UN data)",
@@ -103,15 +108,20 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-10T19:30:00Z",
-   "fb_reel": "2026-11-10T19:30:00Z",
-   "yt_short": "2026-11-10T22:30:00Z",
-   "threads_reel": "2026-11-10T19:30:00Z",
-   "bsky_reel": "2026-11-10T19:30:00Z"
+   "ig_reel": "2026-11-10T21:00:00Z",
+   "fb_reel": "2026-11-10T21:00:00Z",
+   "yt_short": "2026-11-10T21:00:00Z",
+   "threads_reel": "2026-11-10T21:00:00Z",
+   "bsky_reel": "2026-11-10T21:00:00Z"
   },
   "done": [
+   "bsky_reel",
    "fb_carousel",
-   "ig_carousel"
+   "fb_reel",
+   "ig_carousel",
+   "ig_reel",
+   "threads_reel",
+   "yt_short"
   ],
   "status": "queued",
   "title": "Which Country Has the Most Time Zones? (It's Not Russia)",
@@ -138,14 +148,18 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-10T20:30:00Z",
-   "fb_reel": "2026-11-10T20:30:00Z",
-   "threads_reel": "2026-11-10T20:30:00Z",
-   "bsky_reel": "2026-11-10T20:30:00Z"
+   "ig_reel": "2026-11-11T01:00:00Z",
+   "fb_reel": "2026-11-11T01:00:00Z",
+   "threads_reel": "2026-11-11T01:00:00Z",
+   "bsky_reel": "2026-11-11T01:00:00Z"
   },
   "done": [
+   "bsky_reel",
    "fb_carousel",
-   "ig_carousel"
+   "fb_reel",
+   "ig_carousel",
+   "ig_reel",
+   "threads_reel"
   ],
   "status": "queued",
   "title": "Top 10 Military Budgets in the World (SIPRI, latest data)",
@@ -217,11 +231,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-10T21:30:00Z",
-   "fb_reel": "2026-11-10T21:30:00Z",
-   "yt_short": "2026-11-10T22:20:00Z",
-   "threads_reel": "2026-11-10T21:30:00Z",
-   "bsky_reel": "2026-11-10T21:30:00Z"
+   "ig_reel": "2026-11-11T05:00:00Z",
+   "fb_reel": "2026-11-11T05:00:00Z",
+   "yt_short": "2026-11-11T05:00:00Z",
+   "threads_reel": "2026-11-11T05:00:00Z",
+   "bsky_reel": "2026-11-11T05:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -256,8 +270,8 @@
    "ig_reel": "2026-11-08T21:43:00Z",
    "fb_reel": "2026-11-08T21:43:00Z",
    "yt_short": "2026-11-08T21:43:00Z",
-   "threads_reel": "2026-11-10T15:00:34Z",
-   "bsky_reel": "2026-11-10T15:00:34Z"
+   "threads_reel": "2026-11-11T09:00:00Z",
+   "bsky_reel": "2026-11-11T09:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -293,11 +307,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-10T22:30:00Z",
-   "fb_reel": "2026-11-10T22:30:00Z",
-   "yt_short": "2026-11-10T22:10:00Z",
-   "threads_reel": "2026-11-10T22:30:00Z",
-   "bsky_reel": "2026-11-10T22:30:00Z"
+   "ig_reel": "2026-11-11T11:00:00Z",
+   "fb_reel": "2026-11-11T11:00:00Z",
+   "yt_short": "2026-11-11T11:00:00Z",
+   "threads_reel": "2026-11-11T11:00:00Z",
+   "bsky_reel": "2026-11-11T11:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -333,8 +347,8 @@
    "ig_reel": "2026-11-08T22:43:00Z",
    "fb_reel": "2026-11-08T22:43:00Z",
    "yt_short": "2026-11-08T22:43:00Z",
-   "threads_reel": "2026-11-10T17:00:34Z",
-   "bsky_reel": "2026-11-10T17:00:34Z"
+   "threads_reel": "2026-11-11T13:00:00Z",
+   "bsky_reel": "2026-11-11T13:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -370,11 +384,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-10T23:30:00Z",
-   "fb_reel": "2026-11-10T23:30:00Z",
-   "yt_short": "2026-11-10T23:30:00Z",
-   "threads_reel": "2026-11-10T23:30:00Z",
-   "bsky_reel": "2026-11-10T23:30:00Z"
+   "ig_reel": "2026-11-11T15:00:00Z",
+   "fb_reel": "2026-11-11T15:00:00Z",
+   "yt_short": "2026-11-11T15:00:00Z",
+   "threads_reel": "2026-11-11T15:00:00Z",
+   "bsky_reel": "2026-11-11T15:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -410,8 +424,8 @@
    "ig_reel": "2026-11-08T23:43:00Z",
    "fb_reel": "2026-11-08T23:43:00Z",
    "yt_short": "2026-11-08T23:43:00Z",
-   "threads_reel": "2026-11-10T19:00:34Z",
-   "bsky_reel": "2026-11-10T19:00:34Z"
+   "threads_reel": "2026-11-11T17:00:00Z",
+   "bsky_reel": "2026-11-11T17:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -447,11 +461,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-11T00:30:00Z",
-   "fb_reel": "2026-11-11T00:30:00Z",
-   "yt_short": "2026-11-11T00:30:00Z",
-   "threads_reel": "2026-11-11T00:30:00Z",
-   "bsky_reel": "2026-11-11T00:30:00Z"
+   "ig_reel": "2026-11-11T19:00:00Z",
+   "fb_reel": "2026-11-11T19:00:00Z",
+   "yt_short": "2026-11-11T19:00:00Z",
+   "threads_reel": "2026-11-11T19:00:00Z",
+   "bsky_reel": "2026-11-11T19:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -483,11 +497,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-11T01:30:00Z",
-   "fb_reel": "2026-11-11T01:30:00Z",
-   "yt_short": "2026-11-11T01:30:00Z",
-   "threads_reel": "2026-11-11T01:30:00Z",
-   "bsky_reel": "2026-11-11T01:30:00Z"
+   "ig_reel": "2026-11-11T21:00:00Z",
+   "fb_reel": "2026-11-11T21:00:00Z",
+   "yt_short": "2026-11-11T21:00:00Z",
+   "threads_reel": "2026-11-11T21:00:00Z",
+   "bsky_reel": "2026-11-11T21:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -520,11 +534,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-11T02:30:00Z",
-   "fb_reel": "2026-11-11T02:30:00Z",
-   "yt_short": "2026-11-11T02:30:00Z",
-   "threads_reel": "2026-11-11T02:30:00Z",
-   "bsky_reel": "2026-11-11T02:30:00Z"
+   "ig_reel": "2026-11-11T23:00:00Z",
+   "fb_reel": "2026-11-11T23:00:00Z",
+   "yt_short": "2026-11-11T23:00:00Z",
+   "threads_reel": "2026-11-11T23:00:00Z",
+   "bsky_reel": "2026-11-11T23:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -557,11 +571,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-11T03:30:00Z",
-   "fb_reel": "2026-11-11T03:30:00Z",
-   "yt_short": "2026-11-11T03:30:00Z",
-   "threads_reel": "2026-11-11T03:30:00Z",
-   "bsky_reel": "2026-11-11T03:30:00Z"
+   "ig_reel": "2026-11-12T01:00:00Z",
+   "fb_reel": "2026-11-12T01:00:00Z",
+   "yt_short": "2026-11-12T01:00:00Z",
+   "threads_reel": "2026-11-12T01:00:00Z",
+   "bsky_reel": "2026-11-12T01:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -594,11 +608,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-11T04:30:00Z",
-   "fb_reel": "2026-11-11T04:30:00Z",
-   "yt_short": "2026-11-11T04:30:00Z",
-   "threads_reel": "2026-11-11T04:30:00Z",
-   "bsky_reel": "2026-11-11T04:30:00Z"
+   "ig_reel": "2026-11-12T05:00:00Z",
+   "fb_reel": "2026-11-12T05:00:00Z",
+   "yt_short": "2026-11-12T05:00:00Z",
+   "threads_reel": "2026-11-12T05:00:00Z",
+   "bsky_reel": "2026-11-12T05:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -631,11 +645,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-11T05:30:00Z",
-   "fb_reel": "2026-11-11T05:30:00Z",
-   "yt_short": "2026-11-11T05:30:00Z",
-   "threads_reel": "2026-11-11T05:30:00Z",
-   "bsky_reel": "2026-11-11T05:30:00Z"
+   "ig_reel": "2026-11-12T09:00:00Z",
+   "fb_reel": "2026-11-12T09:00:00Z",
+   "yt_short": "2026-11-12T09:00:00Z",
+   "threads_reel": "2026-11-12T09:00:00Z",
+   "bsky_reel": "2026-11-12T09:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -670,13 +684,13 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T00:30:00Z",
-   "fb_reel": "2026-11-12T00:30:00Z",
-   "yt_short": "2026-11-12T00:30:00Z",
+   "ig_reel": "2026-11-12T11:00:00Z",
+   "fb_reel": "2026-11-12T11:00:00Z",
+   "yt_short": "2026-11-12T11:00:00Z",
    "bsky": "2026-11-10T07:30:00Z",
    "threads": "2026-11-10T08:10:00Z",
-   "threads_reel": "2026-11-12T00:30:00Z",
-   "bsky_reel": "2026-11-12T00:30:00Z"
+   "threads_reel": "2026-11-12T11:00:00Z",
+   "bsky_reel": "2026-11-12T11:00:00Z"
   },
   "done": [
    "bsky",
@@ -711,11 +725,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T01:30:00Z",
-   "fb_reel": "2026-11-12T01:30:00Z",
-   "yt_short": "2026-11-12T01:30:00Z",
-   "threads_reel": "2026-11-12T01:30:00Z",
-   "bsky_reel": "2026-11-12T01:30:00Z"
+   "ig_reel": "2026-11-12T13:00:00Z",
+   "fb_reel": "2026-11-12T13:00:00Z",
+   "yt_short": "2026-11-12T13:00:00Z",
+   "threads_reel": "2026-11-12T13:00:00Z",
+   "bsky_reel": "2026-11-12T13:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -748,11 +762,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T02:30:00Z",
-   "fb_reel": "2026-11-12T02:30:00Z",
-   "yt_short": "2026-11-12T02:30:00Z",
-   "threads_reel": "2026-11-12T02:30:00Z",
-   "bsky_reel": "2026-11-12T02:30:00Z"
+   "ig_reel": "2026-11-12T15:00:00Z",
+   "fb_reel": "2026-11-12T15:00:00Z",
+   "yt_short": "2026-11-12T15:00:00Z",
+   "threads_reel": "2026-11-12T15:00:00Z",
+   "bsky_reel": "2026-11-12T15:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -785,11 +799,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T03:30:00Z",
-   "fb_reel": "2026-11-12T03:30:00Z",
-   "yt_short": "2026-11-12T03:30:00Z",
-   "threads_reel": "2026-11-12T03:30:00Z",
-   "bsky_reel": "2026-11-12T03:30:00Z"
+   "ig_reel": "2026-11-12T17:00:00Z",
+   "fb_reel": "2026-11-12T17:00:00Z",
+   "yt_short": "2026-11-12T17:00:00Z",
+   "threads_reel": "2026-11-12T17:00:00Z",
+   "bsky_reel": "2026-11-12T17:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -822,11 +836,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T04:30:00Z",
-   "fb_reel": "2026-11-12T04:30:00Z",
-   "yt_short": "2026-11-12T04:30:00Z",
-   "threads_reel": "2026-11-12T04:30:00Z",
-   "bsky_reel": "2026-11-12T04:30:00Z"
+   "ig_reel": "2026-11-12T19:00:00Z",
+   "fb_reel": "2026-11-12T19:00:00Z",
+   "yt_short": "2026-11-12T19:00:00Z",
+   "threads_reel": "2026-11-12T19:00:00Z",
+   "bsky_reel": "2026-11-12T19:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -860,11 +874,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T05:30:00Z",
-   "fb_reel": "2026-11-12T05:30:00Z",
-   "yt_short": "2026-11-12T05:30:00Z",
-   "threads_reel": "2026-11-12T05:30:00Z",
-   "bsky_reel": "2026-11-12T05:30:00Z"
+   "ig_reel": "2026-11-12T21:00:00Z",
+   "fb_reel": "2026-11-12T21:00:00Z",
+   "yt_short": "2026-11-12T21:00:00Z",
+   "threads_reel": "2026-11-12T21:00:00Z",
+   "bsky_reel": "2026-11-12T21:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -897,11 +911,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T06:30:00Z",
-   "fb_reel": "2026-11-12T06:30:00Z",
-   "yt_short": "2026-11-12T06:30:00Z",
-   "threads_reel": "2026-11-12T06:30:00Z",
-   "bsky_reel": "2026-11-12T06:30:00Z"
+   "ig_reel": "2026-11-12T23:00:00Z",
+   "fb_reel": "2026-11-12T23:00:00Z",
+   "yt_short": "2026-11-12T23:00:00Z",
+   "threads_reel": "2026-11-12T23:00:00Z",
+   "bsky_reel": "2026-11-12T23:00:00Z"
   },
   "done": [
    "fb_carousel",
@@ -936,11 +950,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T07:30:00Z",
-   "fb_reel": "2026-11-12T07:30:00Z",
-   "yt_short": "2026-11-12T07:30:00Z",
-   "threads_reel": "2026-11-12T07:30:00Z",
-   "bsky_reel": "2026-11-12T07:30:00Z"
+   "ig_reel": "2026-11-13T01:00:00Z",
+   "fb_reel": "2026-11-13T01:00:00Z",
+   "yt_short": "2026-11-13T01:00:00Z",
+   "threads_reel": "2026-11-13T01:00:00Z",
+   "bsky_reel": "2026-11-13T01:00:00Z"
   },
   "done": [
    "bsky",
@@ -977,11 +991,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T08:30:00Z",
-   "fb_reel": "2026-11-12T08:30:00Z",
-   "yt_short": "2026-11-12T08:30:00Z",
-   "threads_reel": "2026-11-12T08:30:00Z",
-   "bsky_reel": "2026-11-12T08:30:00Z"
+   "ig_reel": "2026-11-13T05:00:00Z",
+   "fb_reel": "2026-11-13T05:00:00Z",
+   "yt_short": "2026-11-13T05:00:00Z",
+   "threads_reel": "2026-11-13T05:00:00Z",
+   "bsky_reel": "2026-11-13T05:00:00Z"
   },
   "done": [
    "bsky",
@@ -1019,11 +1033,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T09:30:00Z",
-   "fb_reel": "2026-11-12T09:30:00Z",
-   "yt_short": "2026-11-12T09:30:00Z",
-   "threads_reel": "2026-11-12T09:30:00Z",
-   "bsky_reel": "2026-11-12T09:30:00Z"
+   "ig_reel": "2026-11-13T09:00:00Z",
+   "fb_reel": "2026-11-13T09:00:00Z",
+   "yt_short": "2026-11-13T09:00:00Z",
+   "threads_reel": "2026-11-13T09:00:00Z",
+   "bsky_reel": "2026-11-13T09:00:00Z"
   },
   "done": [
    "bsky",
@@ -1061,9 +1075,9 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T10:30:00Z",
-   "fb_reel": "2026-11-12T10:30:00Z",
-   "yt_short": "2026-11-12T10:30:00Z",
+   "ig_reel": "2026-11-13T11:00:00Z",
+   "fb_reel": "2026-11-13T11:00:00Z",
+   "yt_short": "2026-11-13T11:00:00Z",
    "threads_reel": "2026-11-10T11:59:34Z",
    "bsky_reel": "2026-11-10T11:59:34Z"
   },
@@ -1107,9 +1121,9 @@
   "target_at": {
    "ig_reel": "2026-11-10T11:00:00Z",
    "fb_reel": "2026-11-10T11:00:00Z",
-   "yt_short": "2026-11-10T11:00:00Z",
-   "threads_reel": "2026-11-10T21:00:34Z",
-   "bsky_reel": "2026-11-10T21:00:34Z"
+   "yt_short": "2026-11-13T13:00:00Z",
+   "threads_reel": "2026-11-13T13:00:00Z",
+   "bsky_reel": "2026-11-13T13:00:00Z"
   },
   "done": [
    "bsky",
@@ -1149,11 +1163,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T11:30:00Z",
-   "fb_reel": "2026-11-12T11:30:00Z",
-   "yt_short": "2026-11-12T11:30:00Z",
-   "threads_reel": "2026-11-12T11:30:00Z",
-   "bsky_reel": "2026-11-12T11:30:00Z"
+   "ig_reel": "2026-11-13T15:00:00Z",
+   "fb_reel": "2026-11-13T15:00:00Z",
+   "yt_short": "2026-11-13T15:00:00Z",
+   "threads_reel": "2026-11-13T15:00:00Z",
+   "bsky_reel": "2026-11-13T15:00:00Z"
   },
   "done": [
    "bsky",
@@ -1193,9 +1207,9 @@
   "target_at": {
    "ig_reel": "2026-11-10T12:00:00Z",
    "fb_reel": "2026-11-10T12:00:00Z",
-   "yt_short": "2026-11-10T12:00:00Z",
-   "threads_reel": "2026-11-10T23:00:34Z",
-   "bsky_reel": "2026-11-10T23:00:34Z"
+   "yt_short": "2026-11-13T17:00:00Z",
+   "threads_reel": "2026-11-13T17:00:00Z",
+   "bsky_reel": "2026-11-13T17:00:00Z"
   },
   "done": [
    "bsky",
@@ -1235,11 +1249,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T12:30:00Z",
-   "fb_reel": "2026-11-12T12:30:00Z",
-   "yt_short": "2026-11-12T12:30:00Z",
-   "threads_reel": "2026-11-12T12:30:00Z",
-   "bsky_reel": "2026-11-12T12:30:00Z"
+   "ig_reel": "2026-11-13T19:00:00Z",
+   "fb_reel": "2026-11-13T19:00:00Z",
+   "yt_short": "2026-11-13T19:00:00Z",
+   "threads_reel": "2026-11-13T19:00:00Z",
+   "bsky_reel": "2026-11-13T19:00:00Z"
   },
   "done": [
    "bsky",
@@ -1279,9 +1293,9 @@
   "target_at": {
    "ig_reel": "2026-11-10T13:00:00Z",
    "fb_reel": "2026-11-10T13:00:00Z",
-   "yt_short": "2026-11-10T13:00:00Z",
-   "threads_reel": "2026-11-11T01:00:34Z",
-   "bsky_reel": "2026-11-11T01:00:34Z"
+   "yt_short": "2026-11-13T21:00:00Z",
+   "threads_reel": "2026-11-13T21:00:00Z",
+   "bsky_reel": "2026-11-13T21:00:00Z"
   },
   "done": [
    "bsky",
@@ -1321,11 +1335,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T13:30:00Z",
-   "fb_reel": "2026-11-12T13:30:00Z",
-   "yt_short": "2026-11-12T13:30:00Z",
-   "threads_reel": "2026-11-12T13:30:00Z",
-   "bsky_reel": "2026-11-12T13:30:00Z"
+   "ig_reel": "2026-11-13T23:00:00Z",
+   "fb_reel": "2026-11-13T23:00:00Z",
+   "yt_short": "2026-11-13T23:00:00Z",
+   "threads_reel": "2026-11-13T23:00:00Z",
+   "bsky_reel": "2026-11-13T23:00:00Z"
   },
   "done": [
    "bsky",
@@ -1364,13 +1378,18 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T14:30:00Z",
-   "fb_reel": "2026-11-12T14:30:00Z",
-   "yt_short": "2026-11-12T14:30:00Z",
-   "threads_reel": "2026-11-12T14:30:00Z",
-   "bsky_reel": "2026-11-12T14:30:00Z"
+   "ig_reel": "2026-11-14T01:00:00Z",
+   "fb_reel": "2026-11-14T01:00:00Z",
+   "yt_short": "2026-11-14T01:00:00Z",
+   "threads_reel": "2026-11-14T01:00:00Z",
+   "bsky_reel": "2026-11-14T01:00:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "Cosmic Calendar: The History of the Universe in One Year",
   "caption": "Squeeze the Universe's 13.8 billion years into one calendar year and Homo sapiens appears 11.4 minutes before midnight on New Year's Eve.\n\nEach day of the cosmic year is about 37.8 million years.\nEarth forms in early September, with 120 days to go.\nDinosaurs arrive on Christmas Day and vanish with 1.7 days left.\nFarming starts in the last 27 seconds.\n\nWhich month of the cosmic year would you visit?\n\nSource: ESA (Celebrating the legacy of ESA's Planck mission); USGS (Age of the Earth (Geologic Time)); International Commission on Stratigraphy (International Chronostratigraphic Chart); USGS (When did the first dinosaurs appear on Earth?); Smithsonian National Museum of Natural History (Human Origins: Homo sapiens); Smithsonian National Museum of Natural History (Human Origins: Humans Change the World); Definitions and arithmetic (Unit conversions, calendar lengths and model assumptions).\n\nFollow @worldasadataset for the world, quantified.\n\n#cosmiccalendar #universe #space #bigbang #dinosaurs #science #history #worldasadataset",
@@ -1387,7 +1406,7 @@
  },
  {
   "slug": "countries-without-an-army",
-  "at": "2026-11-10T15:30:00Z",
+  "at": "2026-11-10T18:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1402,13 +1421,18 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T15:30:00Z",
-   "fb_reel": "2026-11-12T15:30:00Z",
-   "yt_short": "2026-11-12T15:30:00Z",
-   "threads_reel": "2026-11-12T15:30:00Z",
-   "bsky_reel": "2026-11-12T15:30:00Z"
+   "ig_reel": "2026-11-14T05:00:00Z",
+   "fb_reel": "2026-11-14T05:00:00Z",
+   "yt_short": "2026-11-14T05:00:00Z",
+   "threads_reel": "2026-11-14T05:00:00Z",
+   "bsky_reel": "2026-11-14T05:00:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "Which Countries Have No Army? All 20 Listed",
   "caption": "20 countries have no army at all.\n\nCosta Rica's constitution abolished its armed forces in 1949. Panama's did the same in 1994.\nIceland is the only NATO member with no standing military. Monaco, Andorra and Liechtenstein have none either.\nTogether these 20 countries are home to about 13.7 million people.\nDefinition: UN member states with no regular military forces, per the CIA World Factbook's final edition. Many keep armed police or coast guards.\n\nShould more countries follow Costa Rica: yes or no?\n\nSource: CIA World Factbook (Military and security forces, country profiles (final edition, archived)); World Bank (World Development Indicators: Population, total (SP.POP.TOTL)); NATO (NATO member countries).\n\nFollow @worldasadataset for the world, quantified.\n\n#geography #costarica #iceland #peace #military #didyouknow #worldfacts #worldasadataset",
@@ -1424,7 +1448,7 @@
  },
  {
   "slug": "tallest-buildings",
-  "at": "2026-11-10T16:30:00Z",
+  "at": "2026-11-11T02:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1439,13 +1463,18 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T16:30:00Z",
-   "fb_reel": "2026-11-12T16:30:00Z",
-   "yt_short": "2026-11-12T16:30:00Z",
-   "threads_reel": "2026-11-12T16:30:00Z",
-   "bsky_reel": "2026-11-12T16:30:00Z"
+   "ig_reel": "2026-11-14T09:00:00Z",
+   "fb_reel": "2026-11-14T09:00:00Z",
+   "yt_short": "2026-11-14T09:00:00Z",
+   "threads_reel": "2026-11-14T09:00:00Z",
+   "bsky_reel": "2026-11-14T09:00:00Z"
   },
-  "done": [],
+  "done": [
+   "bsky",
+   "fb_carousel",
+   "ig_carousel",
+   "threads"
+  ],
   "status": "queued",
   "title": "Tallest Buildings in the World Compared to the Eiffel Tower",
   "caption": "Stack 2.5 Eiffel Towers and you reach the top of Burj Khalifa.\n\nBurj Khalifa in Dubai stands 828 m. Merdeka 118 in Kuala Lumpur is second at 678.9 m.\nEven CITIC Tower, tenth in the world, is 1.6 times the Eiffel Tower's 330 m.\nHalf of the ten tallest completed buildings are in China.\n\nWhich of these would you dare to go up?\n\nSource: Council on Tall Buildings and Urban Habitat (CTBUH) (The Skyscraper Center: tallest completed buildings); Société d'Exploitation de la Tour Eiffel (Eiffel Tower official site: 330 metres); Encyclopaedia Britannica (Eiffel Tower).\n\nFollow @worldasadataset for the world, quantified.\n\n#skyscrapers #architecture #burjkhalifa #eiffeltower #cities #worldrankings #data #worldasadataset",
@@ -1461,7 +1490,7 @@
  },
  {
   "slug": "olympic-medals-all-time",
-  "at": "2026-11-10T17:30:00Z",
+  "at": "2026-11-11T06:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1476,11 +1505,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T17:30:00Z",
-   "fb_reel": "2026-11-12T17:30:00Z",
-   "yt_short": "2026-11-12T17:30:00Z",
-   "threads_reel": "2026-11-12T17:30:00Z",
-   "bsky_reel": "2026-11-12T17:30:00Z"
+   "ig_reel": "2026-11-14T11:00:00Z",
+   "fb_reel": "2026-11-14T11:00:00Z",
+   "yt_short": "2026-11-14T11:00:00Z",
+   "threads_reel": "2026-11-14T11:00:00Z",
+   "bsky_reel": "2026-11-14T11:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1498,7 +1527,7 @@
  },
  {
   "slug": "biggest-deserts",
-  "at": "2026-11-10T18:30:00Z",
+  "at": "2026-11-11T10:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1513,11 +1542,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T18:30:00Z",
-   "fb_reel": "2026-11-12T18:30:00Z",
-   "yt_short": "2026-11-12T18:30:00Z",
-   "threads_reel": "2026-11-12T18:30:00Z",
-   "bsky_reel": "2026-11-12T18:30:00Z"
+   "ig_reel": "2026-11-14T13:00:00Z",
+   "fb_reel": "2026-11-14T13:00:00Z",
+   "yt_short": "2026-11-14T13:00:00Z",
+   "threads_reel": "2026-11-14T13:00:00Z",
+   "bsky_reel": "2026-11-14T13:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1535,7 +1564,7 @@
  },
  {
   "slug": "solar-system-to-scale",
-  "at": "2026-11-10T19:30:00Z",
+  "at": "2026-11-11T14:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1550,11 +1579,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T19:30:00Z",
-   "fb_reel": "2026-11-12T19:30:00Z",
-   "yt_short": "2026-11-12T19:30:00Z",
-   "threads_reel": "2026-11-12T19:30:00Z",
-   "bsky_reel": "2026-11-12T19:30:00Z"
+   "ig_reel": "2026-11-14T15:00:00Z",
+   "fb_reel": "2026-11-14T15:00:00Z",
+   "yt_short": "2026-11-14T15:00:00Z",
+   "threads_reel": "2026-11-14T15:00:00Z",
+   "bsky_reel": "2026-11-14T15:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1572,7 +1601,7 @@
  },
  {
   "slug": "most-volcanoes",
-  "at": "2026-11-10T20:30:00Z",
+  "at": "2026-11-11T18:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1587,11 +1616,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T20:30:00Z",
-   "fb_reel": "2026-11-12T20:30:00Z",
-   "yt_short": "2026-11-12T20:30:00Z",
-   "threads_reel": "2026-11-12T20:30:00Z",
-   "bsky_reel": "2026-11-12T20:30:00Z"
+   "ig_reel": "2026-11-14T17:00:00Z",
+   "fb_reel": "2026-11-14T17:00:00Z",
+   "yt_short": "2026-11-14T17:00:00Z",
+   "threads_reel": "2026-11-14T17:00:00Z",
+   "bsky_reel": "2026-11-14T17:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1609,7 +1638,7 @@
  },
  {
   "slug": "tallest-people",
-  "at": "2026-11-10T21:30:00Z",
+  "at": "2026-11-12T02:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1624,11 +1653,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T21:30:00Z",
-   "fb_reel": "2026-11-12T21:30:00Z",
-   "yt_short": "2026-11-12T21:30:00Z",
-   "threads_reel": "2026-11-12T21:30:00Z",
-   "bsky_reel": "2026-11-12T21:30:00Z"
+   "ig_reel": "2026-11-14T19:00:00Z",
+   "fb_reel": "2026-11-14T19:00:00Z",
+   "yt_short": "2026-11-14T19:00:00Z",
+   "threads_reel": "2026-11-14T19:00:00Z",
+   "bsky_reel": "2026-11-14T19:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1646,7 +1675,7 @@
  },
  {
   "slug": "countries-without-rivers",
-  "at": "2026-11-10T22:30:00Z",
+  "at": "2026-11-12T06:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1661,11 +1690,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T22:30:00Z",
-   "fb_reel": "2026-11-12T22:30:00Z",
-   "yt_short": "2026-11-12T22:30:00Z",
-   "threads_reel": "2026-11-12T22:30:00Z",
-   "bsky_reel": "2026-11-12T22:30:00Z"
+   "ig_reel": "2026-11-14T21:00:00Z",
+   "fb_reel": "2026-11-14T21:00:00Z",
+   "yt_short": "2026-11-14T21:00:00Z",
+   "threads_reel": "2026-11-14T21:00:00Z",
+   "bsky_reel": "2026-11-14T21:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1683,7 +1712,7 @@
  },
  {
   "slug": "human-history-24-hours",
-  "at": "2026-11-10T23:30:00Z",
+  "at": "2026-11-12T10:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1698,11 +1727,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-12T23:30:00Z",
-   "fb_reel": "2026-11-12T23:30:00Z",
-   "yt_short": "2026-11-12T23:30:00Z",
-   "threads_reel": "2026-11-12T23:30:00Z",
-   "bsky_reel": "2026-11-12T23:30:00Z"
+   "ig_reel": "2026-11-14T23:00:00Z",
+   "fb_reel": "2026-11-14T23:00:00Z",
+   "yt_short": "2026-11-14T23:00:00Z",
+   "threads_reel": "2026-11-14T23:00:00Z",
+   "bsky_reel": "2026-11-14T23:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1720,7 +1749,7 @@
  },
  {
   "slug": "undersea-internet-cables",
-  "at": "2026-11-11T00:30:00Z",
+  "at": "2026-11-12T14:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1735,11 +1764,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T00:30:00Z",
-   "fb_reel": "2026-11-13T00:30:00Z",
-   "yt_short": "2026-11-13T00:30:00Z",
-   "threads_reel": "2026-11-13T00:30:00Z",
-   "bsky_reel": "2026-11-13T00:30:00Z"
+   "ig_reel": "2026-11-15T01:00:00Z",
+   "fb_reel": "2026-11-15T01:00:00Z",
+   "yt_short": "2026-11-15T01:00:00Z",
+   "threads_reel": "2026-11-15T01:00:00Z",
+   "bsky_reel": "2026-11-15T01:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1756,7 +1785,7 @@
  },
  {
   "slug": "longest-working-hours",
-  "at": "2026-11-11T01:30:00Z",
+  "at": "2026-11-12T18:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1771,11 +1800,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T01:30:00Z",
-   "fb_reel": "2026-11-13T01:30:00Z",
-   "yt_short": "2026-11-13T01:30:00Z",
-   "threads_reel": "2026-11-13T01:30:00Z",
-   "bsky_reel": "2026-11-13T01:30:00Z"
+   "ig_reel": "2026-11-15T05:00:00Z",
+   "fb_reel": "2026-11-15T05:00:00Z",
+   "yt_short": "2026-11-15T05:00:00Z",
+   "threads_reel": "2026-11-15T05:00:00Z",
+   "bsky_reel": "2026-11-15T05:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1793,7 +1822,7 @@
  },
  {
   "slug": "antarctica-ice",
-  "at": "2026-11-11T02:30:00Z",
+  "at": "2026-11-13T02:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1808,11 +1837,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T02:30:00Z",
-   "fb_reel": "2026-11-13T02:30:00Z",
-   "yt_short": "2026-11-13T02:30:00Z",
-   "threads_reel": "2026-11-13T02:30:00Z",
-   "bsky_reel": "2026-11-13T02:30:00Z"
+   "ig_reel": "2026-11-15T09:00:00Z",
+   "fb_reel": "2026-11-15T09:00:00Z",
+   "yt_short": "2026-11-15T09:00:00Z",
+   "threads_reel": "2026-11-15T09:00:00Z",
+   "bsky_reel": "2026-11-15T09:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1830,7 +1859,7 @@
  },
  {
   "slug": "space-junk",
-  "at": "2026-11-11T03:30:00Z",
+  "at": "2026-11-13T06:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1845,11 +1874,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T03:30:00Z",
-   "fb_reel": "2026-11-13T03:30:00Z",
-   "yt_short": "2026-11-13T03:30:00Z",
-   "threads_reel": "2026-11-13T03:30:00Z",
-   "bsky_reel": "2026-11-13T03:30:00Z"
+   "ig_reel": "2026-11-15T11:00:00Z",
+   "fb_reel": "2026-11-15T11:00:00Z",
+   "yt_short": "2026-11-15T11:00:00Z",
+   "threads_reel": "2026-11-15T11:00:00Z",
+   "bsky_reel": "2026-11-15T11:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1867,7 +1896,7 @@
  },
  {
   "slug": "big-mac-prices-2026",
-  "at": "2026-11-11T04:30:00Z",
+  "at": "2026-11-13T10:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1882,11 +1911,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T04:30:00Z",
-   "fb_reel": "2026-11-13T04:30:00Z",
-   "yt_short": "2026-11-13T04:30:00Z",
-   "threads_reel": "2026-11-13T04:30:00Z",
-   "bsky_reel": "2026-11-13T04:30:00Z"
+   "ig_reel": "2026-11-15T13:00:00Z",
+   "fb_reel": "2026-11-15T13:00:00Z",
+   "yt_short": "2026-11-15T13:00:00Z",
+   "threads_reel": "2026-11-15T13:00:00Z",
+   "bsky_reel": "2026-11-15T13:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1904,7 +1933,7 @@
  },
  {
   "slug": "longest-lived-animals",
-  "at": "2026-11-11T05:30:00Z",
+  "at": "2026-11-13T14:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1919,11 +1948,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T05:30:00Z",
-   "fb_reel": "2026-11-13T05:30:00Z",
-   "yt_short": "2026-11-13T05:30:00Z",
-   "threads_reel": "2026-11-13T05:30:00Z",
-   "bsky_reel": "2026-11-13T05:30:00Z"
+   "ig_reel": "2026-11-15T17:00:00Z",
+   "fb_reel": "2026-11-15T17:00:00Z",
+   "yt_short": "2026-11-15T17:00:00Z",
+   "threads_reel": "2026-11-15T17:00:00Z",
+   "bsky_reel": "2026-11-15T17:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1941,7 +1970,7 @@
  },
  {
   "slug": "biggest-stadiums",
-  "at": "2026-11-11T06:30:00Z",
+  "at": "2026-11-13T18:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1956,11 +1985,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T06:30:00Z",
-   "fb_reel": "2026-11-13T06:30:00Z",
-   "yt_short": "2026-11-13T06:30:00Z",
-   "threads_reel": "2026-11-13T06:30:00Z",
-   "bsky_reel": "2026-11-13T06:30:00Z"
+   "ig_reel": "2026-11-15T21:00:00Z",
+   "fb_reel": "2026-11-15T21:00:00Z",
+   "yt_short": "2026-11-15T21:00:00Z",
+   "threads_reel": "2026-11-15T21:00:00Z",
+   "bsky_reel": "2026-11-15T21:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -1977,7 +2006,7 @@
  },
  {
   "slug": "lightning-hotspots",
-  "at": "2026-11-11T07:30:00Z",
+  "at": "2026-11-14T02:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -1992,11 +2021,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T07:30:00Z",
-   "fb_reel": "2026-11-13T07:30:00Z",
-   "yt_short": "2026-11-13T07:30:00Z",
-   "threads_reel": "2026-11-13T07:30:00Z",
-   "bsky_reel": "2026-11-13T07:30:00Z"
+   "ig_reel": "2026-11-16T09:00:00Z",
+   "fb_reel": "2026-11-16T09:00:00Z",
+   "yt_short": "2026-11-16T09:00:00Z",
+   "threads_reel": "2026-11-16T09:00:00Z",
+   "bsky_reel": "2026-11-16T09:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -2014,7 +2043,7 @@
  },
  {
   "slug": "rare-earths",
-  "at": "2026-11-11T08:30:00Z",
+  "at": "2026-11-14T06:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -2029,11 +2058,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T08:30:00Z",
-   "fb_reel": "2026-11-13T08:30:00Z",
-   "yt_short": "2026-11-13T08:30:00Z",
-   "threads_reel": "2026-11-13T08:30:00Z",
-   "bsky_reel": "2026-11-13T08:30:00Z"
+   "ig_reel": "2026-11-16T11:00:00Z",
+   "fb_reel": "2026-11-16T11:00:00Z",
+   "yt_short": "2026-11-16T11:00:00Z",
+   "threads_reel": "2026-11-16T11:00:00Z",
+   "bsky_reel": "2026-11-16T11:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -2051,7 +2080,7 @@
  },
  {
   "slug": "mammals-by-weight",
-  "at": "2026-11-11T09:30:00Z",
+  "at": "2026-11-14T10:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -2066,11 +2095,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T09:30:00Z",
-   "fb_reel": "2026-11-13T09:30:00Z",
-   "yt_short": "2026-11-13T09:30:00Z",
-   "threads_reel": "2026-11-13T09:30:00Z",
-   "bsky_reel": "2026-11-13T09:30:00Z"
+   "ig_reel": "2026-11-16T13:00:00Z",
+   "fb_reel": "2026-11-16T13:00:00Z",
+   "yt_short": "2026-11-16T13:00:00Z",
+   "threads_reel": "2026-11-16T13:00:00Z",
+   "bsky_reel": "2026-11-16T13:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -2088,7 +2117,7 @@
  },
  {
   "slug": "grand-slam-titles",
-  "at": "2026-11-11T10:30:00Z",
+  "at": "2026-11-14T14:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -2103,11 +2132,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T10:30:00Z",
-   "fb_reel": "2026-11-13T10:30:00Z",
-   "yt_short": "2026-11-13T10:30:00Z",
-   "threads_reel": "2026-11-13T10:30:00Z",
-   "bsky_reel": "2026-11-13T10:30:00Z"
+   "ig_reel": "2026-11-16T17:00:00Z",
+   "fb_reel": "2026-11-16T17:00:00Z",
+   "yt_short": "2026-11-16T17:00:00Z",
+   "threads_reel": "2026-11-16T17:00:00Z",
+   "bsky_reel": "2026-11-16T17:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -2125,7 +2154,7 @@
  },
  {
   "slug": "earthquake-hotspots",
-  "at": "2026-11-11T11:30:00Z",
+  "at": "2026-11-14T18:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -2140,11 +2169,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T11:30:00Z",
-   "fb_reel": "2026-11-13T11:30:00Z",
-   "yt_short": "2026-11-13T11:30:00Z",
-   "threads_reel": "2026-11-13T11:30:00Z",
-   "bsky_reel": "2026-11-13T11:30:00Z"
+   "ig_reel": "2026-11-16T21:00:00Z",
+   "fb_reel": "2026-11-16T21:00:00Z",
+   "yt_short": "2026-11-16T21:00:00Z",
+   "threads_reel": "2026-11-16T21:00:00Z",
+   "bsky_reel": "2026-11-16T21:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -2161,7 +2190,7 @@
  },
  {
   "slug": "internet-languages",
-  "at": "2026-11-11T12:30:00Z",
+  "at": "2026-11-15T02:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -2176,11 +2205,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T12:30:00Z",
-   "fb_reel": "2026-11-13T12:30:00Z",
-   "yt_short": "2026-11-13T12:30:00Z",
-   "threads_reel": "2026-11-13T12:30:00Z",
-   "bsky_reel": "2026-11-13T12:30:00Z"
+   "ig_reel": "2026-11-17T09:00:00Z",
+   "fb_reel": "2026-11-17T09:00:00Z",
+   "yt_short": "2026-11-17T09:00:00Z",
+   "threads_reel": "2026-11-17T09:00:00Z",
+   "bsky_reel": "2026-11-17T09:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -2197,7 +2226,7 @@
  },
  {
   "slug": "meat-eaters",
-  "at": "2026-11-11T13:30:00Z",
+  "at": "2026-11-15T06:00:00Z",
   "targets": [
    "ig_carousel",
    "fb_carousel",
@@ -2212,11 +2241,11 @@
    "bsky_reel"
   ],
   "target_at": {
-   "ig_reel": "2026-11-13T13:30:00Z",
-   "fb_reel": "2026-11-13T13:30:00Z",
-   "yt_short": "2026-11-13T13:30:00Z",
-   "threads_reel": "2026-11-13T13:30:00Z",
-   "bsky_reel": "2026-11-13T13:30:00Z"
+   "ig_reel": "2026-11-17T11:00:00Z",
+   "fb_reel": "2026-11-17T11:00:00Z",
+   "yt_short": "2026-11-17T11:00:00Z",
+   "threads_reel": "2026-11-17T11:00:00Z",
+   "bsky_reel": "2026-11-17T11:00:00Z"
   },
   "done": [],
   "status": "queued",
@@ -2230,6 +2259,43 @@
    "media/meat-eaters/slide_05.jpg",
    "media/meat-eaters/slide_06.jpg",
    "media/meat-eaters/slide_07.jpg"
+  ],
+  "reel": null
+ },
+ {
+  "slug": "planet-moons",
+  "at": "2026-11-15T10:00:00Z",
+  "targets": [
+   "ig_carousel",
+   "fb_carousel",
+   "ig_reel",
+   "fb_reel",
+   "pin",
+   "yt_short",
+   "x_post",
+   "threads",
+   "bsky",
+   "threads_reel",
+   "bsky_reel"
+  ],
+  "target_at": {
+   "ig_reel": "2026-11-17T13:00:00Z",
+   "fb_reel": "2026-11-17T13:00:00Z",
+   "yt_short": "2026-11-17T13:00:00Z",
+   "threads_reel": "2026-11-17T13:00:00Z",
+   "bsky_reel": "2026-11-17T13:00:00Z"
+  },
+  "done": [],
+  "status": "queued",
+  "title": "How Many Moons Does Each Planet Have? ({lit:2026} Counts)",
+  "caption": "Saturn has 293 known moons. Earth has one.\n\nJupiter is next with 115, then Uranus (29) and Neptune (16). Mars has 2; Mercury and Venus have none.\nAbout 64% of all known planetary moons orbit Saturn, and the counts keep rising as small moons are confirmed.\nCounts from NASA (Jupiter as of April 2026, Saturn as of June 2026).\n\nHow small should a moon be allowed to be?\n\nSource: NASA Space Place (How Many Moons Does Each Planet Have?); EarthSky (More moons for Jupiter and Saturn).\n\nFollow @worldasadataset for the world, quantified.\n\n#space #saturn #jupiter #moons #astronomy #nasa #didyouknow #worldasadataset",
+  "slides": [
+   "media/planet-moons/slide_01.jpg",
+   "media/planet-moons/slide_02.jpg",
+   "media/planet-moons/slide_03.jpg",
+   "media/planet-moons/slide_04.jpg",
+   "media/planet-moons/slide_05.jpg",
+   "media/planet-moons/slide_06.jpg"
   ],
   "reel": null
  }
