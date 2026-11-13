@@ -1666,7 +1666,7 @@
     "media/median-age-extremes/slide_04.jpg",
     "media/median-age-extremes/slide_05.jpg"
    ],
-   "reel": "media/median-age-extremes/reel.mp4",
+   "reel": null,
    "carousel": {
     "ig_carousel": {
      "s": "posted",
@@ -1694,11 +1694,9 @@
    },
    "video": {
     "ig_reel": {
-     "s": "failed",
-     "t": "2026-11-13T16:00:00Z",
-     "n": 1,
-     "err": "container 18153102052550967: Error: Media upload has failed with error code 2207077",
-     "last": "2026-11-13T16:02:28+00:00"
+     "s": "posted",
+     "t": "2026-11-13T19:02:07+00:00",
+     "url": "https://www.instagram.com/reel/DfsVabmToA1/"
     },
     "fb_reel": {
      "s": "posted",
@@ -1722,8 +1720,8 @@
     }
    },
    "published": true,
-   "partial": true,
-   "failed": true
+   "partial": false,
+   "failed": false
   },
   {
    "slug": "earths-in-the-sun",
