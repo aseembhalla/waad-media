@@ -1666,7 +1666,7 @@
     "media/median-age-extremes/slide_04.jpg",
     "media/median-age-extremes/slide_05.jpg"
    ],
-   "reel": null,
+   "reel": "media/median-age-extremes/reel.mp4",
    "carousel": {
     "ig_carousel": {
      "s": "posted",
@@ -1694,29 +1694,36 @@
    },
    "video": {
     "ig_reel": {
-     "s": "pending",
-     "t": "2026-11-13T16:00:00Z"
+     "s": "failed",
+     "t": "2026-11-13T16:00:00Z",
+     "n": 1,
+     "err": "container 18153102052550967: Error: Media upload has failed with error code 2207077",
+     "last": "2026-11-13T16:02:28+00:00"
     },
     "fb_reel": {
-     "s": "pending",
-     "t": "2026-11-13T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-13T16:02:36+00:00",
+     "url": "https://www.facebook.com/reel/1636138791387403"
     },
     "threads_reel": {
-     "s": "pending",
-     "t": "2026-11-13T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-13T16:03:24+00:00",
+     "url": "https://www.threads.com/@worldasadataset/post/DfsA9DiPVq9"
     },
     "bsky_reel": {
-     "s": "pending",
-     "t": "2026-11-13T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-13T16:03:47+00:00",
+     "url": "https://bsky.app/profile/did:plc:fsdtuqhzmwhhhj7reflydhyc/post/3n27edeymew2f"
     },
     "yt_short": {
-     "s": "pending",
-     "t": "2026-11-13T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-13T16:02:46+00:00",
+     "url": "https://youtube.com/shorts/NiB1sTf45HM"
     }
    },
    "published": true,
    "partial": true,
-   "failed": false
+   "failed": true
   },
   {
    "slug": "earths-in-the-sun",
