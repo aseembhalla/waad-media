@@ -1984,20 +1984,23 @@
      "url": "https://www.facebook.com/reel/1167378535642352"
     },
     "threads_reel": {
-     "s": "pending",
-     "t": "2026-11-14T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-14T16:03:17+00:00",
+     "url": "https://www.threads.com/@worldasadataset/post/Dfulu44hd_7"
     },
     "bsky_reel": {
-     "s": "pending",
-     "t": "2026-11-14T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-14T16:03:39+00:00",
+     "url": "https://bsky.app/profile/did:plc:fsdtuqhzmwhhhj7reflydhyc/post/3n2bus3gln42f"
     },
     "yt_short": {
-     "s": "pending",
-     "t": "2026-11-14T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-14T16:02:36+00:00",
+     "url": "https://youtube.com/shorts/TJnAeWJ-Iqc"
     }
    },
    "published": true,
-   "partial": true,
+   "partial": false,
    "failed": false
   },
   {
