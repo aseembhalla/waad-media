@@ -3466,20 +3466,24 @@
    "reel": null,
    "carousel": {
     "ig_carousel": {
-     "s": "pending",
-     "t": "2026-11-15T13:00:00Z"
+     "s": "posted",
+     "t": "2026-11-15T13:01:59+00:00",
+     "url": "https://www.instagram.com/p/Dfw11HqDbLd/"
     },
     "fb_carousel": {
-     "s": "pending",
-     "t": "2026-11-15T13:00:00Z"
+     "s": "posted",
+     "t": "2026-11-15T13:02:07+00:00",
+     "url": "https://www.facebook.com/1374283439110690/posts/122102685765548276"
     },
     "threads": {
-     "s": "pending",
-     "t": "2026-11-15T13:00:00Z"
+     "s": "posted",
+     "t": "2026-11-15T13:03:02+00:00",
+     "url": "https://www.threads.com/@worldasadataset/post/Dfw16yskaEe"
     },
     "bsky": {
-     "s": "pending",
-     "t": "2026-11-15T13:00:00Z"
+     "s": "posted",
+     "t": "2026-11-15T13:03:06+00:00",
+     "url": "https://bsky.app/profile/did:plc:fsdtuqhzmwhhhj7reflydhyc/post/3n2e365yaqx2f"
     },
     "pin": {
      "s": "off"
@@ -3507,8 +3511,8 @@
      "t": "2026-11-20T10:00:00Z"
     }
    },
-   "published": false,
-   "partial": false,
+   "published": true,
+   "partial": true,
    "failed": false
   },
   {
