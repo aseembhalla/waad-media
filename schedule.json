@@ -2508,7 +2508,7 @@
     "media/tallest-buildings/slide_05.jpg",
     "media/tallest-buildings/slide_06.jpg"
    ],
-   "reel": null,
+   "reel": "media/tallest-buildings/reel.mp4",
    "carousel": {
     "ig_carousel": {
      "s": "posted",
@@ -2536,29 +2536,38 @@
    },
    "video": {
     "ig_reel": {
-     "s": "pending",
-     "t": "2026-11-16T16:00:00Z"
+     "s": "failed",
+     "t": "2026-11-16T16:00:00Z",
+     "n": 1,
+     "err": "container 18153987547550967: Error: Media upload has failed with error code 2207077",
+     "last": "2026-11-16T16:02:33+00:00"
     },
     "fb_reel": {
-     "s": "pending",
-     "t": "2026-11-16T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-16T16:02:42+00:00",
+     "url": "https://www.facebook.com/reel/1198057539457152"
     },
     "threads_reel": {
-     "s": "pending",
-     "t": "2026-11-16T16:00:00Z"
+     "s": "failed",
+     "t": "2026-11-16T16:00:00Z",
+     "n": 1,
+     "err": "Threads video failed: {'id': '17994204959902266', 'status': 'ERROR', 'error_message': 'UNKNOWN'}",
+     "last": "2026-11-16T16:03:07+00:00"
     },
     "bsky_reel": {
-     "s": "pending",
-     "t": "2026-11-16T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-16T16:04:00+00:00",
+     "url": "https://bsky.app/profile/did:plc:fsdtuqhzmwhhhj7reflydhyc/post/3n2gvqjiwd72m"
     },
     "yt_short": {
-     "s": "pending",
-     "t": "2026-11-16T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-16T16:02:50+00:00",
+     "url": "https://youtube.com/shorts/bE21MZUJTsI"
     }
    },
    "published": true,
    "partial": true,
-   "failed": false
+   "failed": true
   },
   {
    "slug": "olympic-medals-all-time",
