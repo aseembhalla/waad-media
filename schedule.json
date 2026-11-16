@@ -2508,7 +2508,7 @@
     "media/tallest-buildings/slide_05.jpg",
     "media/tallest-buildings/slide_06.jpg"
    ],
-   "reel": "media/tallest-buildings/reel.mp4",
+   "reel": null,
    "carousel": {
     "ig_carousel": {
      "s": "posted",
@@ -2536,11 +2536,9 @@
    },
    "video": {
     "ig_reel": {
-     "s": "failed",
-     "t": "2026-11-16T16:00:00Z",
-     "n": 1,
-     "err": "container 18153987547550967: Error: Media upload has failed with error code 2207077",
-     "last": "2026-11-16T16:02:33+00:00"
+     "s": "posted",
+     "t": "2026-11-16T19:02:09+00:00",
+     "url": "https://www.instagram.com/reel/Df0Dy_zB8wa/"
     },
     "fb_reel": {
      "s": "posted",
@@ -2548,11 +2546,9 @@
      "url": "https://www.facebook.com/reel/1198057539457152"
     },
     "threads_reel": {
-     "s": "failed",
-     "t": "2026-11-16T16:00:00Z",
-     "n": 1,
-     "err": "Threads video failed: {'id': '17994204959902266', 'status': 'ERROR', 'error_message': 'UNKNOWN'}",
-     "last": "2026-11-16T16:03:07+00:00"
+     "s": "posted",
+     "t": "2026-11-16T19:02:46+00:00",
+     "url": "https://www.threads.com/@worldasadataset/post/Df0D3lUKfTe"
     },
     "bsky_reel": {
      "s": "posted",
@@ -2566,8 +2562,8 @@
     }
    },
    "published": true,
-   "partial": true,
-   "failed": true
+   "partial": false,
+   "failed": false
   },
   {
    "slug": "olympic-medals-all-time",
