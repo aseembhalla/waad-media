@@ -2606,28 +2606,33 @@
    },
    "video": {
     "ig_reel": {
-     "s": "pending",
-     "t": "2026-11-16T22:00:00Z"
+     "s": "posted",
+     "t": "2026-11-16T22:04:12+00:00",
+     "url": "https://www.instagram.com/reel/Df0YonYBIqt/"
     },
     "fb_reel": {
-     "s": "pending",
-     "t": "2026-11-16T22:00:00Z"
+     "s": "posted",
+     "t": "2026-11-16T22:04:21+00:00",
+     "url": "https://www.facebook.com/reel/1142757195281047"
     },
     "threads_reel": {
-     "s": "pending",
-     "t": "2026-11-16T22:00:00Z"
+     "s": "posted",
+     "t": "2026-11-16T22:05:08+00:00",
+     "url": "https://www.threads.com/@worldasadataset/post/Df0Yu3xhcGw"
     },
     "bsky_reel": {
-     "s": "pending",
-     "t": "2026-11-16T22:00:00Z"
+     "s": "posted",
+     "t": "2026-11-16T22:05:32+00:00",
+     "url": "https://bsky.app/profile/did:plc:fsdtuqhzmwhhhj7reflydhyc/post/3n2hjwytktb2l"
     },
     "yt_short": {
-     "s": "pending",
-     "t": "2026-11-16T22:00:00Z"
+     "s": "posted",
+     "t": "2026-11-16T22:04:28+00:00",
+     "url": "https://youtube.com/shorts/_58Ecc3gtoU"
     }
    },
    "published": true,
-   "partial": true,
+   "partial": false,
    "failed": false
   },
   {
