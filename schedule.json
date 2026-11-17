@@ -2836,12 +2836,13 @@
      "url": "https://bsky.app/profile/did:plc:fsdtuqhzmwhhhj7reflydhyc/post/3n2jg7xebvh23"
     },
     "yt_short": {
-     "s": "pending",
-     "t": "2026-11-17T16:00:00Z"
+     "s": "posted",
+     "t": "2026-11-17T22:02:31+00:00",
+     "url": "https://youtube.com/shorts/z42aSm5HQFI"
     }
    },
    "published": true,
-   "partial": true,
+   "partial": false,
    "failed": false
   },
   {
