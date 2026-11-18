@@ -2928,7 +2928,7 @@
     "media/countries-without-rivers/slide_05.jpg",
     "media/countries-without-rivers/slide_06.jpg"
    ],
-   "reel": "media/countries-without-rivers/reel.mp4",
+   "reel": null,
    "carousel": {
     "ig_carousel": {
      "s": "posted",
@@ -2956,11 +2956,9 @@
    },
    "video": {
     "ig_reel": {
-     "s": "failed",
-     "t": "2026-11-18T10:00:00Z",
-     "n": 1,
-     "err": "container 18154404211550967: Error: Media upload has failed with error code 2207077",
-     "last": "2026-11-18T10:02:27+00:00"
+     "s": "posted",
+     "t": "2026-11-18T13:02:39+00:00",
+     "url": "https://www.instagram.com/reel/Df4kPwagupd/"
     },
     "fb_reel": {
      "s": "posted",
@@ -2984,8 +2982,8 @@
     }
    },
    "published": true,
-   "partial": true,
-   "failed": true
+   "partial": false,
+   "failed": false
   },
   {
    "slug": "human-history-24-hours",
@@ -3844,20 +3842,24 @@
    "reel": null,
    "carousel": {
     "ig_carousel": {
-     "s": "pending",
-     "t": "2026-11-18T13:00:00Z"
+     "s": "posted",
+     "t": "2026-11-18T13:03:14+00:00",
+     "url": "https://www.instagram.com/p/Df4kWljFwLA/"
     },
     "fb_carousel": {
-     "s": "pending",
-     "t": "2026-11-18T13:00:00Z"
+     "s": "posted",
+     "t": "2026-11-18T13:03:26+00:00",
+     "url": "https://www.facebook.com/1374283439110690/posts/122105409207548276"
     },
     "threads": {
-     "s": "pending",
-     "t": "2026-11-18T13:00:00Z"
+     "s": "posted",
+     "t": "2026-11-18T13:04:18+00:00",
+     "url": "https://www.threads.com/@worldasadataset/post/Df4kclaEXYd"
     },
     "bsky": {
-     "s": "pending",
-     "t": "2026-11-18T13:00:00Z"
+     "s": "posted",
+     "t": "2026-11-18T13:04:24+00:00",
+     "url": "https://bsky.app/profile/did:plc:fsdtuqhzmwhhhj7reflydhyc/post/3n2lmn7s6b52t"
     },
     "pin": {
      "s": "off"
@@ -3885,8 +3887,8 @@
      "t": "2026-11-23T04:00:00Z"
     }
    },
-   "published": false,
-   "partial": false,
+   "published": true,
+   "partial": true,
    "failed": false
   },
   {
