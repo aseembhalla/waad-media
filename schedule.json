@@ -4430,8 +4430,69 @@
    "failed": false
   },
   {
-   "slug": "data-center-power",
+   "slug": "chess-world-championship-2026",
    "at": "2026-11-26T13:00:00Z",
+   "title": "Gukesh vs Sindarov: World Chess Championship 2026 in Numbers",
+   "caption": "The world chess champion is ranked No. 26. His challenger is No. 4.\n\nGukesh Dommaraju (2,710) defends his title against Javokhir Sindarov (2,782) in Geneva until 12 December: the youngest World Championship match ever, both players aged 20.\nGukesh became the youngest champion ever at 18.5. Emanuel Lasker held the title for 27 years.\n\nWho wins: Gukesh or Sindarov?\n\nSource: Chess.com (November FIDE Rating List: Sindarov Leads Gukesh By 72 Points); Wikipedia (World Chess Championship 2026); Sportsdigest / ChessWorld (Youngest world chess champions (age when first winning the title)); Wikipedia (Comparison of top chess players throughout history: World Champions by world title reigns).\n\nFollow @worldasadataset for the world, quantified.\n\n#chess #gukesh #sindarov #worldchesschampionship #chesstok #sports #dataviz #worldasadataset",
+   "slides": [
+    "media/chess-world-championship-2026/slide_01.jpg",
+    "media/chess-world-championship-2026/slide_02.jpg",
+    "media/chess-world-championship-2026/slide_03.jpg",
+    "media/chess-world-championship-2026/slide_04.jpg",
+    "media/chess-world-championship-2026/slide_05.jpg",
+    "media/chess-world-championship-2026/slide_06.jpg"
+   ],
+   "reel": null,
+   "carousel": {
+    "ig_carousel": {
+     "s": "pending",
+     "t": "2026-11-26T13:00:00Z"
+    },
+    "fb_carousel": {
+     "s": "pending",
+     "t": "2026-11-26T13:00:00Z"
+    },
+    "threads": {
+     "s": "pending",
+     "t": "2026-11-26T13:00:00Z"
+    },
+    "bsky": {
+     "s": "pending",
+     "t": "2026-11-26T13:00:00Z"
+    },
+    "pin": {
+     "s": "off"
+    }
+   },
+   "video": {
+    "ig_reel": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    },
+    "fb_reel": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    },
+    "threads_reel": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    },
+    "bsky_reel": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    },
+    "yt_short": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    }
+   },
+   "published": false,
+   "partial": false,
+   "failed": false
+  },
+  {
+   "slug": "data-center-power",
+   "at": "2026-11-27T13:00:00Z",
    "title": "US Data Centers: 46 of 47 Ballot Measures Against, Power Use to 2030",
    "caption": "46 of 47 US ballot measures on data centers in 2026 went against them.\n\nUS data centers used 176 TWh in 2023, 4.4% of the country's electricity. Berkeley Lab projects 649 TWh by 2030: 11.8% of all US power.\nBallotpedia counts 47 local measures decided this year; only 1 favoured data centers.\n\nWould you vote for a data center near you?\n\nSource: Ballotpedia (Voters have decided on 47 measures related to data centers in 2026); Lawrence Berkeley National Laboratory (US DOE) (2024 United States Data Center Energy Usage Report); Lawrence Berkeley National Laboratory (US DOE) (United States Data Center Energy Usage Report: 2025 Update).\n\nFollow @worldasadataset for the world, quantified.\n\n#ai #datacenters #energy #electricity #tech #uspolitics #dataviz #worldasadataset",
    "slides": [
@@ -4445,19 +4506,19 @@
    "carousel": {
     "ig_carousel": {
      "s": "pending",
-     "t": "2026-11-26T13:00:00Z"
+     "t": "2026-11-27T13:00:00Z"
     },
     "fb_carousel": {
      "s": "pending",
-     "t": "2026-11-26T13:00:00Z"
+     "t": "2026-11-27T13:00:00Z"
     },
     "threads": {
      "s": "pending",
-     "t": "2026-11-26T13:00:00Z"
+     "t": "2026-11-27T13:00:00Z"
     },
     "bsky": {
      "s": "pending",
-     "t": "2026-11-26T13:00:00Z"
+     "t": "2026-11-27T13:00:00Z"
     },
     "pin": {
      "s": "off"
@@ -4466,23 +4527,23 @@
    "video": {
     "ig_reel": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     },
     "fb_reel": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     },
     "threads_reel": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     },
     "bsky_reel": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     },
     "yt_short": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     }
    },
    "published": false,
@@ -4491,7 +4552,7 @@
   },
   {
    "slug": "plastic-production",
-   "at": "2026-11-27T13:00:00Z",
+   "at": "2026-11-28T13:00:00Z",
    "title": "How Much Plastic Does the World Make? 460 Million Tonnes a Year",
    "caption": "The world made 460 million tonnes of plastic in 2019: more than the weight of every human alive.\n\nThat's 230× as much as in 1950. Of all the plastic made since 1950 (about 9,540 million tonnes), 67% was made in 2000-2019.\nGeyer et al. (2017) and OECD (2022) via Our World in Data; human biomass from Greenspoon et al. (2023). Latest complete year: 2019.\n\nHow many plastic items have you used today?\n\nSource: Geyer et al. (2017) and OECD Global Plastics Outlook (2022), via Our World in Data (Global plastics production); Greenspoon et al., PNAS (The global biomass of wild mammals (2023)).\n\nFollow @worldasadataset for the world, quantified.\n\n#plastic #plasticpollution #environment #recycling #sustainability #ocean #dataviz #worldasadataset",
    "slides": [
@@ -4505,19 +4566,19 @@
    "carousel": {
     "ig_carousel": {
      "s": "pending",
-     "t": "2026-11-27T13:00:00Z"
+     "t": "2026-11-28T13:00:00Z"
     },
     "fb_carousel": {
      "s": "pending",
-     "t": "2026-11-27T13:00:00Z"
+     "t": "2026-11-28T13:00:00Z"
     },
     "threads": {
      "s": "pending",
-     "t": "2026-11-27T13:00:00Z"
+     "t": "2026-11-28T13:00:00Z"
     },
     "bsky": {
      "s": "pending",
-     "t": "2026-11-27T13:00:00Z"
+     "t": "2026-11-28T13:00:00Z"
     },
     "pin": {
      "s": "off"
@@ -4526,23 +4587,23 @@
    "video": {
     "ig_reel": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     },
     "fb_reel": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     },
     "threads_reel": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     },
     "bsky_reel": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     },
     "yt_short": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     }
    },
    "published": false,
@@ -4551,7 +4612,7 @@
   },
   {
    "slug": "nobel-prizes-by-country",
-   "at": "2026-11-28T13:00:00Z",
+   "at": "2026-11-29T13:00:00Z",
    "title": "Nobel Prize Winners by Country of Birth (1901-2026)",
    "caption": "299 Nobel Prize winners were born in the United States, the most of any country.\n\nNext: the UK (110), Germany (86), France (64) and Japan (31). Counts use country of birth in today's borders, 1901-2026.\nOf 1,000 individual laureates, 69 are women.\nSource: Nobel Prize official data (api.nobelprize.org).\n\nWhich Nobel Prize would you most like to win?\n\nSource: Nobel Prize Outreach (official API) (Nobel Prize laureates, api.nobelprize.org 2.1).\n\nFollow @worldasadataset for the world, quantified.\n\n#nobelprize #science #history #physics #literature #didyouknow #dataviz #worldasadataset",
    "slides": [
@@ -4565,19 +4626,19 @@
    "carousel": {
     "ig_carousel": {
      "s": "pending",
-     "t": "2026-11-28T13:00:00Z"
+     "t": "2026-11-29T13:00:00Z"
     },
     "fb_carousel": {
      "s": "pending",
-     "t": "2026-11-28T13:00:00Z"
+     "t": "2026-11-29T13:00:00Z"
     },
     "threads": {
      "s": "pending",
-     "t": "2026-11-28T13:00:00Z"
+     "t": "2026-11-29T13:00:00Z"
     },
     "bsky": {
      "s": "pending",
-     "t": "2026-11-28T13:00:00Z"
+     "t": "2026-11-29T13:00:00Z"
     },
     "pin": {
      "s": "off"
@@ -4586,23 +4647,23 @@
    "video": {
     "ig_reel": {
      "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
+     "t": "2026-12-01T16:00:00Z"
     },
     "fb_reel": {
      "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
+     "t": "2026-12-01T16:00:00Z"
     },
     "threads_reel": {
      "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
+     "t": "2026-12-01T16:00:00Z"
     },
     "bsky_reel": {
      "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
+     "t": "2026-12-01T16:00:00Z"
     },
     "yt_short": {
      "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
+     "t": "2026-12-01T16:00:00Z"
     }
    },
    "published": false,
@@ -4611,7 +4672,7 @@
   },
   {
    "slug": "highest-grossing-films",
-   "at": "2026-11-29T13:00:00Z",
+   "at": "2026-11-30T13:00:00Z",
    "title": "The 15 Highest-Grossing Films of All Time (Nov 2026)",
    "caption": "Avengers: Endgame is still the highest-grossing film ever: $2.94 billion worldwide.\n\nAvatar is $19 million behind at $2.92 billion. Spider-Man: Brand New Day (2026, still in cinemas) is third with $2.52 billion.\nFor every film in the top 8, most of the money came from outside the US and Canada.\nBox Office Mojo, worldwide cinema grosses as of 11 Nov 2026, not adjusted for inflation.\n\nWhich film on this list have you watched in a cinema?\n\nSource: Box Office Mojo (IMDbPro) (Top Lifetime Grosses, worldwide).\n\nFollow @worldasadataset for the world, quantified.\n\n#movies #boxoffice #film #cinema #avatar #marvel #dataviz #worldasadataset",
    "slides": [
@@ -4625,19 +4686,19 @@
    "carousel": {
     "ig_carousel": {
      "s": "pending",
-     "t": "2026-11-29T13:00:00Z"
+     "t": "2026-11-30T13:00:00Z"
     },
     "fb_carousel": {
      "s": "pending",
-     "t": "2026-11-29T13:00:00Z"
+     "t": "2026-11-30T13:00:00Z"
     },
     "threads": {
      "s": "pending",
-     "t": "2026-11-29T13:00:00Z"
+     "t": "2026-11-30T13:00:00Z"
     },
     "bsky": {
      "s": "pending",
-     "t": "2026-11-29T13:00:00Z"
+     "t": "2026-11-30T13:00:00Z"
     },
     "pin": {
      "s": "off"
@@ -4646,23 +4707,23 @@
    "video": {
     "ig_reel": {
      "s": "pending",
-     "t": "2026-12-01T16:00:00Z"
+     "t": "2026-12-02T16:00:00Z"
     },
     "fb_reel": {
      "s": "pending",
-     "t": "2026-12-01T16:00:00Z"
+     "t": "2026-12-02T16:00:00Z"
     },
     "threads_reel": {
      "s": "pending",
-     "t": "2026-12-01T16:00:00Z"
+     "t": "2026-12-02T16:00:00Z"
     },
     "bsky_reel": {
      "s": "pending",
-     "t": "2026-12-01T16:00:00Z"
+     "t": "2026-12-02T16:00:00Z"
     },
     "yt_short": {
      "s": "pending",
-     "t": "2026-12-01T16:00:00Z"
+     "t": "2026-12-02T16:00:00Z"
     }
    },
    "published": false,
@@ -4671,7 +4732,7 @@
   },
   {
    "slug": "electric-car-share",
-   "at": "2026-11-30T13:00:00Z",
+   "at": "2026-12-01T13:00:00Z",
    "title": "Electric Cars' Share of New Car Sales by Country (2025)",
    "caption": "97% of new cars sold in Norway in 2025 were electric.\n\nWorldwide it was 25%, up from 4% in 2020. China reached 53%, the EU 27%, the US 10% and India 4%.\nIEA Global EV Outlook 2026 via Our World in Data. Electric = battery-electric and plug-in hybrid.\n\nWould your next car be electric?\n\nSource: International Energy Agency, via Our World in Data (Global EV Outlook 2026: share of new cars sold that are electric).\n\nFollow @worldasadataset for the world, quantified.\n\n#ev #electriccars #tesla #cleanenergy #cars #norway #dataviz #worldasadataset",
    "slides": [
@@ -4685,19 +4746,19 @@
    "carousel": {
     "ig_carousel": {
      "s": "pending",
-     "t": "2026-11-30T13:00:00Z"
+     "t": "2026-12-01T13:00:00Z"
     },
     "fb_carousel": {
      "s": "pending",
-     "t": "2026-11-30T13:00:00Z"
+     "t": "2026-12-01T13:00:00Z"
     },
     "threads": {
      "s": "pending",
-     "t": "2026-11-30T13:00:00Z"
+     "t": "2026-12-01T13:00:00Z"
     },
     "bsky": {
      "s": "pending",
-     "t": "2026-11-30T13:00:00Z"
+     "t": "2026-12-01T13:00:00Z"
     },
     "pin": {
      "s": "off"
@@ -4706,23 +4767,23 @@
    "video": {
     "ig_reel": {
      "s": "pending",
-     "t": "2026-12-02T16:00:00Z"
+     "t": "2026-12-03T16:00:00Z"
     },
     "fb_reel": {
      "s": "pending",
-     "t": "2026-12-02T16:00:00Z"
+     "t": "2026-12-03T16:00:00Z"
     },
     "threads_reel": {
      "s": "pending",
-     "t": "2026-12-02T16:00:00Z"
+     "t": "2026-12-03T16:00:00Z"
     },
     "bsky_reel": {
      "s": "pending",
-     "t": "2026-12-02T16:00:00Z"
+     "t": "2026-12-03T16:00:00Z"
     },
     "yt_short": {
      "s": "pending",
-     "t": "2026-12-02T16:00:00Z"
+     "t": "2026-12-03T16:00:00Z"
     }
    },
    "published": false,
