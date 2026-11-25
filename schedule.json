@@ -4430,8 +4430,68 @@
    "failed": false
   },
   {
-   "slug": "nvidia-revenue",
+   "slug": "data-center-power",
    "at": "2026-11-26T13:00:00Z",
+   "title": "US Data Centers: 46 of 47 Ballot Measures Against, Power Use to 2030",
+   "caption": "46 of 47 US ballot measures on data centers in 2026 went against them.\n\nUS data centers used 176 TWh in 2023, 4.4% of the country's electricity. Berkeley Lab projects 649 TWh by 2030: 11.8% of all US power.\nBallotpedia counts 47 local measures decided this year; only 1 favoured data centers.\n\nWould you vote for a data center near you?\n\nSource: Ballotpedia (Voters have decided on 47 measures related to data centers in 2026); Lawrence Berkeley National Laboratory (US DOE) (2024 United States Data Center Energy Usage Report); Lawrence Berkeley National Laboratory (US DOE) (United States Data Center Energy Usage Report: 2025 Update).\n\nFollow @worldasadataset for the world, quantified.\n\n#ai #datacenters #energy #electricity #tech #uspolitics #dataviz #worldasadataset",
+   "slides": [
+    "media/data-center-power/slide_01.jpg",
+    "media/data-center-power/slide_02.jpg",
+    "media/data-center-power/slide_03.jpg",
+    "media/data-center-power/slide_04.jpg",
+    "media/data-center-power/slide_05.jpg"
+   ],
+   "reel": null,
+   "carousel": {
+    "ig_carousel": {
+     "s": "pending",
+     "t": "2026-11-26T13:00:00Z"
+    },
+    "fb_carousel": {
+     "s": "pending",
+     "t": "2026-11-26T13:00:00Z"
+    },
+    "threads": {
+     "s": "pending",
+     "t": "2026-11-26T13:00:00Z"
+    },
+    "bsky": {
+     "s": "pending",
+     "t": "2026-11-26T13:00:00Z"
+    },
+    "pin": {
+     "s": "off"
+    }
+   },
+   "video": {
+    "ig_reel": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    },
+    "fb_reel": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    },
+    "threads_reel": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    },
+    "bsky_reel": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    },
+    "yt_short": {
+     "s": "pending",
+     "t": "2026-11-28T16:00:00Z"
+    }
+   },
+   "published": false,
+   "partial": false,
+   "failed": false
+  },
+  {
+   "slug": "nvidia-revenue",
+   "at": "2026-11-27T13:00:00Z",
    "title": "Nvidia Revenue: One Quarter vs a Whole Year",
    "caption": "Nvidia made $115.8bn in three months: 4.3× its whole fiscal 2023.\n\nRevenue in the quarter to 25 October 2026 was up 103% on a year earlier; 93% came from data centers.\nFigures from Nvidia's own quarterly reports. Not investment advice.\n\nAI bubble, or just getting started?\n\nSource: NVIDIA (Quarterly revenue trend by market platform, Q3 fiscal 2027); NVIDIA annual reports (via StockAnalysis) (NVIDIA annual revenue).\n\nFollow @worldasadataset for the world, quantified.\n\n#nvidia #ai #stocks #tech #semiconductors #investing #dataviz #worldasadataset",
    "slides": [
@@ -4445,19 +4505,19 @@
    "carousel": {
     "ig_carousel": {
      "s": "pending",
-     "t": "2026-11-26T13:00:00Z"
+     "t": "2026-11-27T13:00:00Z"
     },
     "fb_carousel": {
      "s": "pending",
-     "t": "2026-11-26T13:00:00Z"
+     "t": "2026-11-27T13:00:00Z"
     },
     "threads": {
      "s": "pending",
-     "t": "2026-11-26T13:00:00Z"
+     "t": "2026-11-27T13:00:00Z"
     },
     "bsky": {
      "s": "pending",
-     "t": "2026-11-26T13:00:00Z"
+     "t": "2026-11-27T13:00:00Z"
     },
     "pin": {
      "s": "off"
@@ -4466,23 +4526,23 @@
    "video": {
     "ig_reel": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     },
     "fb_reel": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     },
     "threads_reel": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     },
     "bsky_reel": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     },
     "yt_short": {
      "s": "pending",
-     "t": "2026-11-28T16:00:00Z"
+     "t": "2026-11-29T16:00:00Z"
     }
    },
    "published": false,
@@ -4491,7 +4551,7 @@
   },
   {
    "slug": "gta-vi-launch",
-   "at": "2026-11-27T13:00:00Z",
+   "at": "2026-11-28T13:00:00Z",
    "title": "GTA VI Launch Sales vs GTA V and Avengers: Endgame",
    "caption": "GTA V took 3 days to make $1bn. GTA VI made an estimated $1.84bn by launch day.\n\nSensor Tower estimates 19.1m copies sold, about 75% on PlayStation. Avengers: Endgame opened with $1.21bn.\nEstimates include months of pre-orders; Take-Two's own figures are still to come.\n\nHave you played GTA VI yet?\n\nSource: Sensor Tower (via FOX 5) (GTA VI pulls in estimated $1.84 billion by release day); Take-Two Interactive (GTA V worldwide sales surpass $1 billion in first three days (press release)); Box office reports (via FOX 5) (Avengers: Endgame global opening weekend).\n\nFollow @worldasadataset for the world, quantified.\n\n#gta6 #gtavi #gaming #rockstargames #videogames #ps5 #dataviz #worldasadataset",
    "slides": [
@@ -4505,19 +4565,19 @@
    "carousel": {
     "ig_carousel": {
      "s": "pending",
-     "t": "2026-11-27T13:00:00Z"
+     "t": "2026-11-28T13:00:00Z"
     },
     "fb_carousel": {
      "s": "pending",
-     "t": "2026-11-27T13:00:00Z"
+     "t": "2026-11-28T13:00:00Z"
     },
     "threads": {
      "s": "pending",
-     "t": "2026-11-27T13:00:00Z"
+     "t": "2026-11-28T13:00:00Z"
     },
     "bsky": {
      "s": "pending",
-     "t": "2026-11-27T13:00:00Z"
+     "t": "2026-11-28T13:00:00Z"
     },
     "pin": {
      "s": "off"
@@ -4526,23 +4586,23 @@
    "video": {
     "ig_reel": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     },
     "fb_reel": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     },
     "threads_reel": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     },
     "bsky_reel": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     },
     "yt_short": {
      "s": "pending",
-     "t": "2026-11-29T16:00:00Z"
+     "t": "2026-11-30T16:00:00Z"
     }
    },
    "published": false,
@@ -4551,7 +4611,7 @@
   },
   {
    "slug": "chess-world-championship-2026",
-   "at": "2026-11-28T13:00:00Z",
+   "at": "2026-11-29T13:00:00Z",
    "title": "Gukesh vs Sindarov: World Chess Championship 2026 in Numbers",
    "caption": "The world chess champion is ranked No. 26. His challenger is No. 4.\n\nGukesh Dommaraju (2,710) defends his title against Javokhir Sindarov (2,782) in Geneva until 12 December: the youngest World Championship match ever, both players aged 20.\nGukesh became the youngest champion ever at 18.5. Emanuel Lasker held the title for 27 years.\n\nWho wins: Gukesh or Sindarov?\n\nSource: Chess.com (November FIDE Rating List: Sindarov Leads Gukesh By 72 Points); Wikipedia (World Chess Championship 2026); Sportsdigest / ChessWorld (Youngest world chess champions (age when first winning the title)); Wikipedia (Comparison of top chess players throughout history: World Champions by world title reigns).\n\nFollow @worldasadataset for the world, quantified.\n\n#chess #gukesh #sindarov #worldchesschampionship #chesstok #sports #dataviz #worldasadataset",
    "slides": [
@@ -4561,66 +4621,6 @@
     "media/chess-world-championship-2026/slide_04.jpg",
     "media/chess-world-championship-2026/slide_05.jpg",
     "media/chess-world-championship-2026/slide_06.jpg"
-   ],
-   "reel": null,
-   "carousel": {
-    "ig_carousel": {
-     "s": "pending",
-     "t": "2026-11-28T13:00:00Z"
-    },
-    "fb_carousel": {
-     "s": "pending",
-     "t": "2026-11-28T13:00:00Z"
-    },
-    "threads": {
-     "s": "pending",
-     "t": "2026-11-28T13:00:00Z"
-    },
-    "bsky": {
-     "s": "pending",
-     "t": "2026-11-28T13:00:00Z"
-    },
-    "pin": {
-     "s": "off"
-    }
-   },
-   "video": {
-    "ig_reel": {
-     "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
-    },
-    "fb_reel": {
-     "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
-    },
-    "threads_reel": {
-     "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
-    },
-    "bsky_reel": {
-     "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
-    },
-    "yt_short": {
-     "s": "pending",
-     "t": "2026-11-30T16:00:00Z"
-    }
-   },
-   "published": false,
-   "partial": false,
-   "failed": false
-  },
-  {
-   "slug": "data-center-power",
-   "at": "2026-11-29T13:00:00Z",
-   "title": "US Data Centers: 46 of 47 Ballot Measures Against, Power Use to 2030",
-   "caption": "46 of 47 US ballot measures on data centers in 2026 went against them.\n\nUS data centers used 176 TWh in 2023, 4.4% of the country's electricity. Berkeley Lab projects 649 TWh by 2030: 11.8% of all US power.\nBallotpedia counts 47 local measures decided this year; only 1 favoured data centers.\n\nWould you vote for a data center near you?\n\nSource: Ballotpedia (Voters have decided on 47 measures related to data centers in 2026); Lawrence Berkeley National Laboratory (US DOE) (2024 United States Data Center Energy Usage Report); Lawrence Berkeley National Laboratory (US DOE) (United States Data Center Energy Usage Report: 2025 Update).\n\nFollow @worldasadataset for the world, quantified.\n\n#ai #datacenters #energy #electricity #tech #uspolitics #dataviz #worldasadataset",
-   "slides": [
-    "media/data-center-power/slide_01.jpg",
-    "media/data-center-power/slide_02.jpg",
-    "media/data-center-power/slide_03.jpg",
-    "media/data-center-power/slide_04.jpg",
-    "media/data-center-power/slide_05.jpg"
    ],
    "reel": null,
    "carousel": {
